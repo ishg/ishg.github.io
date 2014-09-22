@@ -13,7 +13,7 @@ paginate:         1
 baseurl:          /
 author:
   name:           Ishmeet Grewal
-  url:            http://www.ishmeetgrewal.com
+  url:            http://www.ishmeetgrewal.me
   email:          me@ishmeetgrewal.com
 
 # Custom vars
