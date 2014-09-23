@@ -8,9 +8,9 @@ permalink:        pretty
 # Setup
 title:            Ishmeet Grewal's Blog
 tagline:          Student. Traveler. Programmer
-url:              http://ishmeetgrewal.com/blog
+url:              http://ishmeetgrewal.me
 paginate:         1
-baseurl:          /
+baseurl:          http://www.ishmeetgrewal.me/
 author:
   name:           Ishmeet Grewal
   url:            http://www.ishmeetgrewal.me
