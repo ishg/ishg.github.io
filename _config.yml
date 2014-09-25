@@ -9,7 +9,8 @@ permalink:        pretty
 title:            Ishmeet Grewal
 tagline:          student. traveler. programmer
 url:              http://ishmeetgrewal.me
-paginate:         2
+paginate:         1
+paginate_path:    "blog/page:num"
 baseurl:          /
 author:
   name:           Ishmeet Grewal
@@ -21,4 +22,4 @@ version:          1.0.0
 github:
   repo:           https://github.com/ishg/ishg.github.io
 
-pages_list:       {'About':'/about','Blog':'/blog','Archive':'/archive','Impossible List':'/impossible'}
+pages_list:       {'Home':'/','Blog':'/blog','Archive':'/blog/archive','Impossible List':'/blog/impossible'}
