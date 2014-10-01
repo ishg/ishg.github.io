@@ -1813,7 +1813,7 @@ div.year{
 }
 
 div.year p{
-	margin-top:0;
+	margin-top:0 !important;
 	position:absolute;
 	top:50%;
 	transform: translate(0,-50%);
@@ -1821,6 +1821,7 @@ div.year p{
 	color:white;
 	font-family:"Roboto","sans-serif";
 	font-weight:300;
+	text-align:center;
 
 }
 
