@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Raspberry Pi Timelapse
+summary: I set up a Raspberry Pi to take a picture every 10 seconds at an autocross event. The result was a timelapse video showcasing all the cars that autocrossed.
 comments: True
 ---
 

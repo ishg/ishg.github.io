@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Manual Transmission
+summary: I teach my friend how to drive manual cars and learn a lot about manual transmission in the process.
 comments: True
 ---
 

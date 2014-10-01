@@ -1,36 +1,364 @@
 ---
-layout: default
-title: Home
+layout: front
+title: Ishmeet Grewal
 ---
-<div class="posts">
-  {% for post in paginator.posts %}
-  <div class="post">
-    <h1 class="post-title">
-      <a href="{{ post.url }}">
-        {{ post.title }}
-      </a>
-    </h1>
+    <!--home start-->
 
-    <span class="post-date">{{ post.date | date_to_string }}</span>
+<div id="home">
+	<div class="headerLine">
+	<div id="menuF" class="default">
+		<div class="container">
+			<div class="row">
+				<div class="logo col-md-4">
+					<div>
+						<a href="/">
+							Ishmeet Grewal
+						</a>
+					</div>
+				</div>
+				<div class="col-md-8">
+					<div class="navmenu"style="text-align: center;">
+						<ul id="menu">
+							<li><a href="#about">About</a></li>
+              <li><a href="#skills">Skills</a></li>
+              <li><a href="#stats">Stats</a></li>
+							<li class="last"><a href="/blog">Blog&nbsp;<i class="fa fa-pencil fa-lg"></i></a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	</div>
+		<div id="profile" class="container">
+    <div class="row team">
+      <div class="col-md-2 b1">
+      </div>
 
-    {{ post.content }}
+
+      <div class="col-md-8">
+          <img style="border-radius:50%; border:1px solid white;" width=182 height=auto class="img-responsive" src="public/images/profile.jpg">
+          <h4>Welcome!</h4>
+          <p>I am a computer science student aspiring to be software engineer. Harboring a passion for programming, I travel the world and constantly search for opportunities to learn something new.</p>
+          <ul>
+            <li><a href="https://www.facebook.com/ishmeet.grewal"><i class="fa fa-facebook-square fa-2x"></i></a></li>
+            <li><a href="https://github.com/ishg"><i class="fa fa-github-square fa-2x"></i></a></li>
+            <li><a href="https://www.linkedin.com/in/ishmeetgrewal"><i class="fa fa-linkedin fa-2x"></i></a></li>
+            <li><a href="https://twitter.com/ishmeetgrewal"><i class="fa fa-twitter fa-2x" ></i></a></li>
+            <li><a href="https://plus.google.com/+IshmeetGrewal/"><i class="fa fa-google-plus-square fa-2x"></i></a></li>
+          </ul>
+      </div>
+
+
+      <div class="col-md-2 b3">
+      </div>
+    </div>
   </div>
-  {% endfor %}
 </div>
 
-<div class="pagination">
-  {% if paginator.next_page %}
-    <a class="pagination-item older" href="{{ site.baseurl }}page{{paginator.next_page}}">Older</a>
-  {% else %}
-    <span class="pagination-item older">Older</span>
-  {% endif %}
-  {% if paginator.previous_page %}
-    {% if paginator.page == 2 %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}">Newer</a>
-    {% else %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}page{{paginator.previous_page}}">Newer</a>
-    {% endif %}
-  {% else %}
-    <span class="pagination-item newer">Newer</span>
-  {% endif %}
+<!--about start-->
+<div id="about">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12 Ama">
+        <h3>Education And Experience</h3>
+      </div>
+    </div>
+  </div>
+
+  <div style="position: relative;">
+
+    <div class="container">
+      <div class="row about">
+        <div class="col-md-6">
+          <div class="about1">
+          <div class="pic1Ab"><div id="osu" class="year"><p>Present</p></div></div>
+            <h3>The Ohio State University</h3>
+            <h4>Computer Science Student</h4>
+            <p>I am also involved with Engineers for Community Service, The Collegiate Web Developers Group, and I travel and serve through Buck-I-SERV.</p>
+          </div>
+        </div>
+        <div class="col-md-6">
+          <div class="about2">
+          <div class="pic2Ab"><div id="ge" class="year"><p>Summer 2014</p></div></div>
+            <h3>GE Aviation</h3>
+            <h4>ITLP Intern</h4>
+            <p>I helped to redesign internal support websites using modern web technologies.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="horL"></div>
+
+    <div class="container">
+      <div class="row about">
+        <div class="col-md-6">
+          <div class="about1">
+          <div class="pic1Ab"><div id="marathon" class="year"><p>Spring &nbsp;&nbsp;2014</p></div></div>
+            <h3>Marathon Petroleum Company</h3>
+            <h4>IT Services Intern</h4>
+            <p>I worked with SAP Data Services and Information Steward tool to assist with Master Data Management and maintaining Data Quality.</p>
+          </div>
+        </div>
+        <div class="col-md-6">
+          <div class="about2">
+            <div class="pic2Ab"><div id="oia" class="year"><p>Summer 2013</p></div></div>
+            <h3>Office of International Affairs, OSU</h3>
+            <h4>Orientation Leader</h4>
+            <p>I welcomed international students to The Ohio State University by participating in cultural adaptation sessions and providing help with campus resources.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+  </div>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12 hr1">
+        <hr/>
+      </div>
+    </div>
+  </div>
 </div>
+<!--skills start-->
+<div id="skills">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12 Ama">
+        <span name="about" ></span>
+        <h3>My Skills</h3>
+      </div>
+    </div>
+  </div>
+	<div class="container">
+		<div class="row">
+			<div class="col-md-3 bar">
+				<div class="progB chart" data-percent="80"  data-animate="3500">
+					<div class="chart chart-content">
+						<div class="percentage" data-percent="80">
+						  <span class="percent">80</span>
+						</div>
+					</div>
+				</div>
+				<div class="textP">
+					<h3>Java</h3>
+				</div>
+			</div>
+			<div class="col-md-3 bar">
+				<div class="progB chart" data-percent="65"  data-animate="3500">
+					<div class="chart chart-content">
+						<div class="percentage" data-percent="65">
+						  <span class="percent">65</span>
+						</div>
+					</div>
+				</div>
+				<div class="textP">
+					<h3>Python</h3>
+				</div>
+			</div>
+			<div class="col-md-3 bar ">
+				<div class="progB chart" data-percent="50"  data-animate="3500">
+					<div class="chart chart-content">
+						<div class="percentage" data-percent="50">
+						  <span class="percent">50</span>
+						</div>
+					</div>
+				</div>
+				<div class="textP">
+					<h3>JavaScript</h3>
+				</div>
+			</div>
+			<div class="col-md-3 bar ">
+				<div class="progB chart" data-percent="50"  data-animate="3500">
+					<div class="chart chart-content">
+						<div class="percentage" data-percent="50">
+						  <span class="percent">50</span>
+						</div>
+					</div>
+				</div>
+				<div class="textP">
+					<h3>HTML5/CSS3</h3>
+				</div>
+			</div>
+		</div>
+	</div>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12 hr1">
+        <hr/>
+      </div>
+    </div>
+  </div>
+</div>
+<!--stats start-->
+<div id="stats">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12 Ama">
+        <h3>Quantifying My Travels</h3>
+      </div>
+    </div>
+  </div>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-4 project">
+        <h3 id="counter">0</h3>
+        <h4>Steps Taken</h4>
+      </div>
+      <div class="col-md-4 project">
+        <h3 id="counter1">0</h3>
+        <h4>Miles Walked</h4>
+      </div>
+      <div class="col-md-4 project">
+        <h3 id="counter2">0</h3>
+        <h4>Miles Biked</h4>
+      </div>
+    </div>
+  </div>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-4 project">
+        <h3 id="counter3">0</h3>
+        <h4>Cities</h4>
+      </div>
+      <div class="col-md-4 project">
+        <h3 id="counter4">0</h3>
+        <h4>States</h4>
+      </div>
+      <div class="col-md-4 project">
+        <h3 id="counter5">0</h3>
+        <h4>Countries</h4>
+      </div>
+    </div>
+  </div>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12 hr1">
+        <hr/>
+      </div>
+    </div>
+  </div>
+</div>
+<div id="blog">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12 Ama">
+          <h3>My Blog</h3>
+        </div>
+      </div>
+    </div>
+
+
+      <div class="container blog">
+				<div class="row news">
+  					{% for post in site.posts limit:2 %}
+            <div class="col-md-6  {% cycle 'text-left','text-right' %}">
+  					<h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+  					<ul>
+  						<li><i class="fa fa-calendar"></i>{{ post.date | date: "%b %-d, %Y" }}</li>
+  					</ul>
+  					<p>{{ post.summary }}&nbsp;<a class="readMore" href="{{ post.url }}">Read More <i class="fa fa-angle-right"></i></a></p>
+  					</div>
+            {% endfor %}
+				</div>
+			</div>
+      <div class="container blog">
+        <div class="row news">
+            {% for post in site.posts offset:2 limit:2 %}
+            <div class="col-md-6  {% cycle 'text-left','text-right' %}">
+            <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+            <ul>
+              <li><i class="fa fa-calendar"></i>{{ post.date | date: "%b %-d, %Y" }}</li>
+            </ul>
+            <p>{{ post.summary }}&nbsp;<a class="readMore" href="{{ post.url }}">Read More <i class="fa fa-angle-right"></i></a></p>
+            </div>
+            {% endfor %}
+        </div>
+      </div>
+      <hr class="hrNews">
+
+
+</div>
+
+<!--contact start-->
+<div id="contact">
+	<div class="lineBlack">
+     <div id="footer" class="container">
+       <!--Footer-->
+       <h3>Contact Me</h3>
+      <ul class="icons">
+				<li><a href="https://github.com/ishg" class="icon circle fa-github"><span class="label">Github</span></a></li>
+        <li><a href="https://twitter.com/ishmeetgrewal" class="icon circle fa-twitter"><span class="label">Twitter</span></a></li>
+				<li><a href="https://www.facebook.com/ishmeet.grewal" class="icon circle fa-facebook"><span class="label">Facebook</span></a></li>
+				<li><a href="https://plus.google.com/+IshmeetGrewal/" class="icon circle fa-google-plus"><span class="label">Google+</span></a></li>
+				<li><a href="https://www.linkedin.com/in/ishmeetgrewal" class="icon circle fa-linkedin"><span class="label">Dribbble</span></a></li>
+			</ul>
+     </div>
+    <div class="container">
+			<div class="row downLine">
+				<div class="col-md-12 text-left copy">
+					<p>Copyright &copy; 2014 Ishmeet Grewal. All Rights Reserved.</p>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<script src="{{ site.baseurl }}public/js/bootstrap.min.js"></script>
+<script src="{{ site.baseurl }}public/js/jquery.slicknav.js"></script>
+<script>
+		$(document).ready(function(){
+		$(".bhide").click(function(){
+			$(".hideObj").slideDown();
+			$(this).hide(); //.attr()
+			return false;
+		});
+		$(".bhide2").click(function(){
+			$(".container.hideObj2").slideDown();
+			$(this).hide(); // .attr()
+			return false;
+		});
+
+		setTimeout(function(){
+				$('#counter').text('0');
+				$('#counter1').text('0');
+				$('#counter2').text('0');
+        $('#counter3').text('0');
+        $('#counter4').text('0');
+        $('#counter5').text('0');
+				setInterval(function(){
+
+					var curval=parseInt($('#counter').text());
+					var curval1=parseInt($('#counter1').text());
+					var curval2=parseInt($('#counter2').text());
+          var curval3=parseInt($('#counter3').text());
+          var curval4=parseInt($('#counter4').text());
+          var curval5=parseInt($('#counter5').text());
+					if(curval<=707){
+						$('#counter').text(curval+1);
+					}
+					if(curval1<=12280){
+						$('#counter1').text(curval1+20);
+					}
+					if(curval2<=245){
+						$('#counter2').text(curval2+1);
+					}
+          if(curval3<=36){
+            $('#counter3').text(curval3+1);
+          }
+          if(curval4<=11){
+            $('#counter4').text(curval4+1);
+          }
+          if(curval5<=5){
+            $('#counter5').text(curval5+1);
+          }
+				}, 2);
+			}, 500);
+		});
+</script>
+<script type="text/javascript">
+jQuery(document).ready(function(){
+	jQuery('#menu').slicknav();
+
+});
+</script>
