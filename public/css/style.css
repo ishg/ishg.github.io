@@ -1779,12 +1779,7 @@ margin-bottom: 35px !important;
 
 /**/
 #profile{
-	background:
-	linear-gradient(
-      rgba(255, 255, 255, 0.25),
-			rgba(0,0,0, 0.65)
-  ),
-	url(../images/9.jpg) center center no-repeat;
+	background: url(../images/9.jpg) center center no-repeat;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
