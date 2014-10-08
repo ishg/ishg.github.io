@@ -262,7 +262,7 @@ title: Ishmeet Grewal
             {% endfor %}
 				</div>
 			</div>
-      <div class="container blog">
+      <div class="container">
         <div class="row news">
             {% for post in site.posts offset:2 limit:2 %}
             <div class="col-md-6  {% cycle 'text-left','text-right' %}">
@@ -303,52 +303,52 @@ title: Ishmeet Grewal
 <script src="{{ site.baseurl }}public/js/jquery.slicknav.js"></script>
 <script>
 		$(document).ready(function(){
-		$(".bhide").click(function(){
-			$(".hideObj").slideDown();
-			$(this).hide(); //.attr()
-			return false;
-		});
-		$(".bhide2").click(function(){
-			$(".container.hideObj2").slideDown();
-			$(this).hide(); // .attr()
-			return false;
-		});
+			$(".bhide").click(function(){
+				$(".hideObj").slideDown();
+				$(this).hide(); //.attr()
+				return false;
+			});
+			$(".bhide2").click(function(){
+				$(".container.hideObj2").slideDown();
+				$(this).hide(); // .attr()
+				return false;
+			});
 
-		setTimeout(function(){
-				$('#counter').text('0');
-				$('#counter1').text('0');
-				$('#counter2').text('0');
-        $('#counter3').text('0');
-        $('#counter4').text('0');
-        $('#counter5').text('0');
-				setInterval(function(){
+			setTimeout(function(){
+					$('#counter').text('0');
+					$('#counter1').text('0');
+					$('#counter2').text('0');
+	        $('#counter3').text('0');
+	        $('#counter4').text('0');
+	        $('#counter5').text('0');
+					setInterval(function(){
 
-					var curval=parseInt($('#counter').text());
-					var curval1=parseInt($('#counter1').text());
-					var curval2=parseInt($('#counter2').text());
-          var curval3=parseInt($('#counter3').text());
-          var curval4=parseInt($('#counter4').text());
-          var curval5=parseInt($('#counter5').text());
-					if(curval<=707){
-						$('#counter').text(curval+1);
-					}
-					if(curval1<=12280){
-						$('#counter1').text(curval1+20);
-					}
-					if(curval2<=245){
-						$('#counter2').text(curval2+1);
-					}
-          if(curval3<=36){
-            $('#counter3').text(curval3+1);
-          }
-          if(curval4<=11){
-            $('#counter4').text(curval4+1);
-          }
-          if(curval5<=5){
-            $('#counter5').text(curval5+1);
-          }
-				}, 2);
-			}, 500);
+						var curval=parseInt($('#counter').text());
+						var curval1=parseInt($('#counter1').text());
+						var curval2=parseInt($('#counter2').text());
+	          var curval3=parseInt($('#counter3').text());
+	          var curval4=parseInt($('#counter4').text());
+	          var curval5=parseInt($('#counter5').text());
+						if(curval<=166791){
+							$('#counter').text(curval+20);
+						}
+						if(curval1<=12280){
+							$('#counter1').text(curval1+20);
+						}
+						if(curval2<=245){
+							$('#counter2').text(curval2+1);
+						}
+	          if(curval3<=36){
+	            $('#counter3').text(curval3+1);
+	          }
+	          if(curval4<=11){
+	            $('#counter4').text(curval4+1);
+	          }
+	          if(curval5<=5){
+	            $('#counter5').text(curval5+1);
+	          }
+					}, 2);
+				}, 500);
 		});
 </script>
 <script type="text/javascript">
