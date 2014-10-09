@@ -315,7 +315,7 @@ title: Ishmeet Grewal
 			});
 
 			setTimeout(function(){
-					$('#counter').text('0');
+					
 					$('#counter1').text('0');
 					$('#counter2').text('0');
 	        $('#counter3').text('0');
@@ -323,15 +323,13 @@ title: Ishmeet Grewal
 	        $('#counter5').text('0');
 					setInterval(function(){
 
-						var curval=parseInt($('#counter').text());
+						
 						var curval1=parseInt($('#counter1').text());
 						var curval2=parseInt($('#counter2').text());
 	          var curval3=parseInt($('#counter3').text());
 	          var curval4=parseInt($('#counter4').text());
 	          var curval5=parseInt($('#counter5').text());
-						if(curval<=191872){
-							$('#counter').text(curval+256);
-						}
+						
 						if(curval1<=82){
 							$('#counter1').text(curval1+1);
 						}
@@ -349,6 +347,14 @@ title: Ishmeet Grewal
 	          }
 					}, 2);
 				}, 100);
+
+        setTimeout(function(){
+          $('#counter').text('0');
+          var curval=parseInt($('#counter').text());
+          if(curval<=191872){
+              $('#counter').text(curval+256);
+            }
+        },1)
 		});
 </script>
 <script type="text/javascript">
