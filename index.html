@@ -350,10 +350,12 @@ title: Ishmeet Grewal
 
         setTimeout(function(){
           $('#counter').text('0');
-          var curval=parseInt($('#counter').text());
-          if(curval<=191872){
-              $('#counter').text(curval+256);
-            }
+          setInterval(function(){
+            var curval=parseInt($('#counter').text());
+            if(curval<=191872){
+              $('#counter').text(curval+1);
+            } 
+          },1);
         },1)
 		});
 </script>
