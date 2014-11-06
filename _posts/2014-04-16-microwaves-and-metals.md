@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Microwaves and Metals
+summary: Why can't we put metals in microwave ovens?
 comments: True
 ---
 

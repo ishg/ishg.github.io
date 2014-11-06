@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Skydiving
+summary: I jumped out of an airplane at 13,000 feet
 comments: True
 ---
 ![Skydiving](/assets/skydiving.jpg)

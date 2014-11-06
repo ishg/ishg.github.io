@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Jet Engines
+summary: I worked at GE Aviation, this is what I learned about Jet Engines.
 comments: True
 ---
 

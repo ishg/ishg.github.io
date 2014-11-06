@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Airplanes and Contrails
+summary: This is what those white airplane tails in the sky are made of.
 comments: True
 ---
 
