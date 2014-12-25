@@ -4,6 +4,7 @@ title: Sikhism: The Tenants
 summary: The first nine phrases of the Sikh holy book contain the essence of the message of Sikhism. I have attempted to translate them.
 comments: True
 ---
+
 Sikhism is the 5th largest religion in the world and has been around since the 15th century. The Holy Book of Sikhism, known as Sri Guru Granth Sahib, is composed of 1,430 pages and contains the teachings of the ten Gurus on how to live a just and virtuous life. That is a lot of pages to read and understand. However, the essence of the message of Sikhism can truly be found in just the first nine phrases of the book.
 
 1. **Ik Onkar**  
