@@ -44,7 +44,7 @@ I will keep the list updated as I tackle some of these goals and I hope that I w
   * <del>Europe</del><span class="done"> [June 2013]
   * Antarctica
 * Swim In Every Ocean
-  * Pacific
+  * <del>Pacific</del><span class="done"> [January 2015]
   * <del>Atlantic</del><span class="done"> [July 2012]
   * <del>Indian</del><span class="done"> [Summer 2006]
   * Arctic
@@ -84,7 +84,7 @@ I will keep the list updated as I tackle some of these goals and I hope that I w
 * Go Bungee Jumping
 * Go Paragliding
 * Go Parasailing
-* Go White Water Rafting
+* <del>Go White Water Rafting</del><span class="done"> [January 2015]
 * <del>Go Kayaking</del><span class="done"> [April 2014 @ Red River]
 * Go Rock Climbing In An Awesome Place
 * Learn How To Surf
