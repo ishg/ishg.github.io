@@ -8,13 +8,13 @@ permalink:        /blog/:year/:month/:day/:title
 # Setup
 title:            Ishmeet Grewal
 tagline:          student. traveler. programmer
-url:              http://ishmeetgrewal.me
+url:              http://ishmeetgrewal.com
 paginate:         1
 paginate_path:    "blog/page:num"
 baseurl:          /
 author:
   name:           Ishmeet Grewal
-  url:            http://www.ishmeetgrewal.me
+  url:            http://www.ishmeetgrewal.com
   email:          me@ishmeetgrewal.com
 
 # Custom vars
@@ -23,3 +23,4 @@ github:
   repo:           https://github.com/ishg/ishg.github.io
 
 pages_list:       {'Home':'/','Blog':'/blog','Archive':'/blog/archive','Impossible List':'/blog/impossible', 'Travels':'/blog/travels'}
+travels: 		  {'Appalachia':'/appalachia', 'Italy':'/italy', 'Costa Rica':'/costa-rica'}
