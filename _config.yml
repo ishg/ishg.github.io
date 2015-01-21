@@ -22,4 +22,4 @@ version:          1.0.0
 github:
   repo:           https://github.com/ishg/ishg.github.io
 
-pages_list:       {'Home':'/','Blog':'/blog','Archive':'/blog/archive','Impossible List':'/blog/impossible'}
+pages_list:       {'Home':'/','Blog':'/blog','Archive':'/blog/archive','Impossible List':'/blog/impossible', 'Travels':'/blog/travels'}
