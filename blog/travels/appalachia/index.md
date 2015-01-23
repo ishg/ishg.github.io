@@ -31,9 +31,7 @@ the food ready and set the tables. After breakfast casserole and grits, we clean
 song sung at dawn four times by facing four directions. Goes kind of like <a href="http://www.youtube.com/embed/YhcgX1VHsgk">this</a>. 
 
 
-<div class="shadow" id="wrapper" style="width:100%; text-align:center">
-<img src="https://lh5.googleusercontent.com/-kVMm1dtrWjU/UhzuPyrR3AI/AAAAAAAAGq4/lsmPecz5uzA/w867-h651-no/tree.JPG" width="800" height="600"/>
-</div>
+![Tree](https://lh5.googleusercontent.com/-kVMm1dtrWjU/UhzuPyrR3AI/AAAAAAAAGq4/lsmPecz5uzA/w867-h651-no/tree.JPG "Tree")
 
 
 We packed sack lunches of PB&J sandwiches with fruit and snacks. The jelly was made of Muscadine grapes grown by Arlene in her garden. Shall I say that it was DELICIOUS!.
@@ -54,14 +52,12 @@ The Sleep Cycle app told me that my sleep quality had been a whopping high at 97
 sausage, we sang the morning song and packed lunches to get ready for the day. We went to pick strawberries at a local farm and brought back a mother lode of 53.75lbs. That 
 is not counting the numerous delicious ones that went straight to my belly. We journeyed to Happy Valley next, valley between the Great Smoky Mountains that is not part of the 
 protected park because it had too many people living there when the park was established. We set to remove invasive plant species such as Honeysuckle and Privet and proceeded 
-to burn those suckers. It was tough work, but the results were quite satisfying. During lunch, I found an abandoned barn that enabled me to take my <a href = "images/wallpaper.jpg">"wallpaper"</a> picture.
+to burn those suckers. It was tough work, but the results were quite satisfying. During lunch, I found an abandoned barn that enabled me to take my <a href = "https://lh3.googleusercontent.com/UlY7ap8axkkw6eViVV-DUlsmL5AIblxncSwvRKQQ7jk=w867-h651-no">"wallpaper"</a> picture.
 We continued to work after lunch and finally saved a whole section of fence from the invasive plants. During this, I also got the opportunity to drive my first Ford F-150 truck, one that 
 had 350k miles on it! We returned home and cleaned up and had supper. 
 
 
-<div class="shadow" id="wrapper" style="width:100%; text-align:center">
-<img src="https://lh3.googleusercontent.com/UlY7ap8axkkw6eViVV-DUlsmL5AIblxncSwvRKQQ7jk=w867-h651-no" width="800" height="600"/>
-</div>
+![Wallpaper](https://lh3.googleusercontent.com/UlY7ap8axkkw6eViVV-DUlsmL5AIblxncSwvRKQQ7jk=w867-h651-no)
 
 After supper, we went to the <strong>Hootenanny!</strong> Held in a converted elementary school, the Rocky Branch Bluegrass Community Club holds a gathering every Friday night
 where different bands set up in different classrooms and you get to enjoy whichever one you want. We sang, danced, got our "mojo" workin', and had a LOT of fun. It was truly
@@ -79,9 +75,7 @@ and were introduced as an experiment to see if they could find some food. After 
 
 
 
-<div class="shadow" id="wrapper" style="width:100%; text-align:center">
-<img src="https://lh3.googleusercontent.com/-3zOIqp1JhHE/UhzuNhMIobI/AAAAAAAAGq4/VmIRBh1tz7Y/w867-h651-no/lost.JPG" width="800" height="600"/>
-</div>
+![Lost Caves](https://lh3.googleusercontent.com/-3zOIqp1JhHE/UhzuNhMIobI/AAAAAAAAGq4/VmIRBh1tz7Y/w867-h651-no/lost.JPG)
 
 After the tour was over, some of us chose to do the extended "wild" tour which involved crawling through caves. The crawling routes had names like "Cruncher", "Meat Grinder", "Fat Man's Misery", etc. 
 The routes were challenging and had a lot of fear factor for anyone who is claustrophobic. We crawled through tiny spaces and narrow holes, slid down caverns, climbed up walls and had a lot of fun. At some points,
