@@ -49,7 +49,7 @@ I will keep the list updated as I tackle some of these goals and I hope that I w
   * <del>Indian</del><span class="done"> [Summer 2006]
   * Arctic
 * Swim In All Major Seas
-  * <del>Mediterranean Sea</del><span class="done"> [Off The Italian Coast, June 2013]
+  * <del>Mediterranean Sea</del><span class="done"> [Cinque Terre, June 2013]
   * Caribbean Sea
   * Caspian Sea
   * Gulf Of Mexico
@@ -77,17 +77,17 @@ I will keep the list updated as I tackle some of these goals and I hope that I w
 
 ## Adrenaline Rush
 
-* <del>Go Skydiving</del><span class="done"> [April 2014 @ StartSkydiving]
+* <del>Go Skydiving</del><span class="done"> [April 2014 @ StartSkydiving]</span>
 * Go Flyboarding
 * Get a Wingsuit License
 * Go Scuba diving
 * Go Bungee Jumping
 * Go Paragliding
 * Go Parasailing
-* <del>Go White Water Rafting</del><span class="done"> [January 2015]
-* <del>Go Kayaking</del><span class="done"> [April 2014 @ Red River]
+* <del>Go White Water Rafting</del><span class="done"> [January 2015 in Costa Rica]
+* <del>Go Kayaking</del><span class="done"> [April 2014 @ Red River, KY]
 * Go Rock Climbing In An Awesome Place
-* Learn How To Surf
+* <del>Learn How To Surf</del><span class="done"> [<a href="https://instagram.com/p/zS-kKymSEK/?modal=true">Jauary 2015 in Costa Rica</a>]
 
 ## Events To Attend
 
@@ -129,4 +129,4 @@ I will keep the list updated as I tackle some of these goals and I hope that I w
 * Learn SQL
 * Learn C#
 * Learn Python
-* Learn How To Create GUIs
+* <del>Learn How To Create GUIs</del><span class="done"> [January 2015]
