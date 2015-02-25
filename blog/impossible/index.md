@@ -6,7 +6,7 @@ comments: True
 
 Inspired by <a href="http://www.impossiblehq.com">Joel Runyon’s</a> quest to do the impossible, I created my own list of things to do before I die.
 
-These are things that I consider to be challenging, and I will slowly accomplish them as I go. This list will change and evolve, and I am open to any new suggestions from others. I love to try new things and venture out of my comfort zone.
+These are things that I consider to be challenging, and I will accomplish them as I progress through. This list will change and evolve, and I am open to any new suggestions from others. I love to try new things and venture out of my comfort zone.
 
 I will keep the list updated as I tackle some of these goals and I hope that I will in turn inspire you to create your own impossible list.
 
