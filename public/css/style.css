@@ -903,7 +903,7 @@
 		.features article .inner {
 			display: inline-block;
 			vertical-align: middle;
-			width: 90%;
+			width: 50%;
 		}
 
 			.features article .inner > :last-child {
