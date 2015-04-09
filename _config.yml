@@ -23,4 +23,4 @@ github:
   repo:           https://github.com/ishg/ishg.github.io
 
 pages_list:       {'Home':'/','Blog':'/blog','Archive':'/blog/archive','Impossible List':'/blog/impossible', 'Travels':'/blog/travels'}
-travels: 		  {'Appalachia':'/appalachia', 'Italy':'/italy', 'Costa Rica':'/costa-rica'}
+travels: 		  {'Appalachia':'/appalachia', 'Italy':'/italy', 'Costa Rica':'/costa-rica', 'Honduras':'/honduras'}

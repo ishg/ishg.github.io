@@ -1,8 +1,6 @@
 ---
-layout: post
+layout: page
 title: Honduras
-summary: I did an engineering service learning project in Monta&ntilde;a de Luz, Honduras. 
-comments: True
 ---
 
 I participated in an Engineering Service-Learning course through OSU where we traveled to Honduras over Spring Break 2015 and implemented sustainable engineering solutions for an orphanage. 
@@ -11,7 +9,7 @@ Monta&ntilde;a de Luz (Mountain of Light), is an orphanage for children with HIV
 
 Our class had three student teams that worked on different projects. The Water Team installed bio-sand filters at the orphanage and conducted water quality tests in an ongoing effort to bring clean drinking water to MdL. Currently, MdL pays for bottled water which ends up costing them a lot of money every year. The Drip Irrigation Team installed a drip irrigation system which will help to start a vegetable garden to provide MdL with fruits and vegetables. The Electrical Team rebuilt an old backup generator and provided backup emergency power to the kitchen to help preserve food and medicines during power outages. 
 
-Over 10 days, I made a lot of new friends, learned so much more about the important things in life, and played a lot of football. This is an experience I will cherish forever, and although no words will be able to communicate its value, I have tried to journal my experience in a 'few' paragraphs below. I took me multiple days to write this post, so take your time in reading it.
+Over 10 days, I made a lot of new friends, learned so much more about the important things in life, and played a lot of football. This is an experience I will cherish forever, and although no words will be able to communicate its value, I have tried to journal my experience in a 'few' paragraphs below. 
 
 ## Day 1
 

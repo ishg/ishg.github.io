@@ -3,7 +3,7 @@ layout: page
 title: Italy
 ---
 
-![Coliseum](http://web.cse.ohio-state.edu/~grewali/images/Photos/PANO.jpg "Coliseum")
+![Coliseum](https://lh5.googleusercontent.com/-N0L7IxGuRik/UhzuX7v13XI/AAAAAAAAGq4/dIKJm7V6hDM/w1116-h275-no/PANO.jpg "Coliseum")
 
 An Air Transat flight carried us from Toronto Pearson International to the Eternal City. Having never heard of the airline, we were wary of it at first. However, a brand new plane equipped with the newest technologies was in store for us. The amazing flight attendents offered meals and regular refreshments and the captain even arrived in Italy half an hour early! The Roman airport was just like any other airport, albiet a little dirty. We exited and waited for a bus to take us to the center of Rome, specifically to the Roma Termini train station. From there, our hostel was only a 5 minute walk through the winding streets. We lodged up in a comfortable room and slept off our jet lag for about three hours.
 

@@ -89,4 +89,4 @@ We thanked Dave for the hospitality and headed back to the beach with our boards
 
 The next morning, after some reluctant goodbyes to Carlos and Ernesto, we piled in the bus which brought us back to San Jose and we flew back to the frigid temperatures of Columbus Ohio after ten days in paradise.
 
-If you made it all the way here, thanks a lot for reading!
+### Thanks a lot for reading!
