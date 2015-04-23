@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sikhism - The Tenants
+title: Sikhism - The Tenets
 summary: The first nine phrases of the Sikh holy book contain the essence of the message of Sikhism. I have attempted to translate them.
 comments: True
 ---
