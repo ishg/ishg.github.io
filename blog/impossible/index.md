@@ -36,20 +36,20 @@ I will keep the list updated as I tackle some of these goals and I hope that I w
 ## Travel
 
 * Visit Every Continent
-  * <del>North America</del><span class="done"> [August 2007]
+  * <del>North America</del><span class="done"> [August 2007] </span>
   * South America
-  * <del>Asia</del><span class="done"> [Born Here]
+  * <del>Asia</del><span class="done"> [Born Here]</span>
   * Africa
-  * Australia
-  * <del>Europe</del><span class="done"> [June 2013]
+  * <del>Australia</del><span class="done"> [May 2015]</span>
+  * <del>Europe</del><span class="done"> [June 2013]</span>
   * Antarctica
 * Swim In Every Ocean
-  * <del>Pacific</del><span class="done"> [January 2015]
-  * <del>Atlantic</del><span class="done"> [July 2012]
-  * <del>Indian</del><span class="done"> [Summer 2006]
+  * <del>Pacific</del><span class="done"> [January 2015]</span>
+  * <del>Atlantic</del><span class="done"> [July 2012]</span>
+  * <del>Indian</del><span class="done"> [Summer 2006]</span>
   * Arctic
 * Swim In All Major Seas
-  * <del>Mediterranean Sea</del><span class="done"> [Cinque Terre, June 2013]
+  * <del>Mediterranean Sea</del><span class="done"> [Cinque Terre, June 2013]</span>
   * Caribbean Sea
   * Caspian Sea
   * Gulf Of Mexico
@@ -63,7 +63,7 @@ I will keep the list updated as I tackle some of these goals and I hope that I w
 * Cross Country Road Trip With Rigorous Documentation
 * Around The World Trip With Rigorous Documentation
 * Visit All The Countries
-  * <del>5 Countries</del><span class="done"> [June 2013]
+  * <del>5 Countries</del><span class="done"> [June 2013]</span>
   * 10 Countries
   * 20 Countries
   * 50 Countries
@@ -80,14 +80,15 @@ I will keep the list updated as I tackle some of these goals and I hope that I w
 * <del>Go Skydiving</del><span class="done"> [April 2014 @ StartSkydiving]</span>
 * Go Flyboarding
 * Get a Wingsuit License
-* Go Scuba diving
-* Go Bungee Jumping
+* <del>Go Snorkeling</del><span class="done"> [June 2015 @ Great Barrier Reef]</span>
+* <del>Go Scuba diving</del><span class="done"> [June 2015 @ Great Barrier Reef]</span>
+* <del>Go Surfing</del><span class="done"> [<a href="https://instagram.com/p/zS-kKymSEK/?modal=true">Jauary 2015 in Costa Rica</a>]
+* <del>Go Bungee Jumping</del><span class="done"> [June 2015 @ AJ Hackett Bungy Cairns]</span>
 * Go Paragliding
 * Go Parasailing
-* <del>Go White Water Rafting</del><span class="done"> [January 2015 in Costa Rica]
-* <del>Go Kayaking</del><span class="done"> [April 2014 @ Red River, KY]
+* <del>Go White Water Rafting</del><span class="done"> [January 2015 @ Costa Rica]</span>
+* <del>Go Kayaking</del><span class="done"> [April 2014 @ Red River, KY]</span>
 * Go Rock Climbing In An Awesome Place
-* <del>Learn How To Surf</del><span class="done"> [<a href="https://instagram.com/p/zS-kKymSEK/?modal=true">Jauary 2015 in Costa Rica</a>]
 
 ## Events To Attend
 
@@ -125,7 +126,7 @@ I will keep the list updated as I tackle some of these goals and I hope that I w
 
 * Make An Android App
 * Make An IOS App
-* <del>Make A Website</del><span class="done"> [Went Online 2013]
+* <del>Make A Website</del><span class="done"> [Went Online in 2013]
 * Learn SQL
 * Learn C#
 * Learn Python
