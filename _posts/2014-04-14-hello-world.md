@@ -3,6 +3,7 @@ layout: post
 title: Hello World
 summary: First Blog Post!
 comments: True
+share: false
 ---
 
 A few months ago, I had a startling revelation – I don’t actually know how most of the world works. Of course, I understand math concepts and I know that human beings need oxygen to live. But what about WiFi? 4G LTE? The contact lenses I rely on everyday? From complicated systems like the New York City Subway to trivial things like scotch tape, I have absolutely no clue how numerous things function and enable me to live my comfortable lifestyle.

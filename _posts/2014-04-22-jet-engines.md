@@ -3,6 +3,8 @@ layout: post
 title: Jet Engines
 summary: I worked at GE Aviation, this is what I learned about Jet Engines.
 comments: True
+share: false
+tags: [learning]
 ---
 
 I love to travel. Have you figured that out yet? My passion for travelling takes me to new cities, countries, and continents. I usually fly to places, but I didn’t know how a jet engine works to take me to new destinations. Since I will be working at GE Aviation this summer, I decided to figure out how a jet engine works.
@@ -19,7 +21,7 @@ __Boyle's Law__ - Volume, Pressure, and Temperature of a gas have a unique relat
 
 ## The engine
 
-![Jet Engine](/assets/jet_engine.png)
+![Jet Engine](/images/jet_engine.png)
 
 The propeller in the front gathers the air and feeds it into the compressor. The compressor utilized Boyle’s law and compresses the air to increase its pressure. The air then enters the combustion chamber and where gas is injected and ignited to heat the gas and increase the pressure. The air is then pushed out from the exhaust to produce the thrust to propel the airplane. On its way out, the air turns a turbine which in turn powers the front propeller to gather more air and keep the process going.
 

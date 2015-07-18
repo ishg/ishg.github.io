@@ -3,6 +3,8 @@ layout: post
 title: Manual Transmission
 summary: I teach my friend how to drive manual cars and learn a lot about manual transmission in the process.
 comments: True
+share: false
+tags: [learning]
 ---
 
 Over the past year, I have gradually developed an avid interest in automobiles. Before that, my fascination with cars only extended to the aesthetics. However, after regularly racing go karts this summer and getting hooked on watching Formula 1, I have also come to appreciate the performance of vehicles. In order to understand these beautiful beasts, I am writing a series on the basics of an automobile in order to get an introductory understanding of the involved mechanics.
@@ -29,7 +31,7 @@ This is what leads us into car transmissions. When a car is stopped, the wheels 
 
 ## The gearbox
 
-![Gearbox](/assets/gearbox.gif)
+![Gearbox](/images/gearbox.gif)
 
 Now that we know the magic behind gears, let’s see how we actually go about changing them in the car. Let’s see what is happening in the picture above. The drive shaft is connected to the engine and is colored green. The gears themselves are labeled and colored blue. The yellow shaft is connected to the wheels. The red assembly is the layshaft which helps to change gears without having to move too many pieces around inside a car.
 

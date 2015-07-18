@@ -3,8 +3,10 @@ layout: post
 title: Skydiving
 summary: I jumped out of an airplane at 13,000 feet
 comments: True
+share: false
+tags: [impossible]
 ---
-![Skydiving](/assets/skydiving.jpg)
+![Skydiving](/images/skydiving.jpg)
 
 n order to cross off another thing off my [Impossible List](/impossible), I went skydiving today. I’m not too big on large men strapped to my back with our pelvic regions in close proximity, so I chose to go the Accelerated Free Fall (AFF) route. [Start Skydiving](http://www.startskydiving.com/) in Middletown, OH, the number 1 dropzone in the world, offers the First Jump Course for people who want to learn the basics of skydiving and may want to pursue a license in the future.
 

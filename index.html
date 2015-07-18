@@ -1,140 +1,74 @@
 ---
-layout: front
-title: Ishmeet Grewal
+layout: post-index
+title: Latest Posts
+description: "Describe this nonsense."
+tags: [Jekyll, theme, themes, responsive, blog, modern]
+comments: false
+image:
+  feature: banner.jpg
 ---
-<div id="wrapper">
 
-  <!-- Header -->
-    <section id="header" class="skel-layers-fixed">
-      <header>
-        <span class="image avatar"><img src="public/images/avatar.jpg" alt="" /></span>
-        <h1 id="logo"><a href="http://ishmeetgrewal.com">Ishmeet Grewal</a></h1>
-        <p>student. traveler. programmer.</p>
-      </header>
-      <nav id="nav">
-        <ul>
-          <li><a href="#one" class="active">About Me</a></li>
-          <li><a href="#two">Education and Experience</a></li>
-          <li><a href="#three">Things I Can Do</a></li>
-          <li><a href="#four">Blog &amp; Travels</a></li>
-        </ul>
-      </nav>
-      <footer>
-        <ul class="icons">
-          <li><a href="https://twitter.com/ishmeetgrewal" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
-          <li><a href="https://www.facebook.com/ishmeet.grewal" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
-          <li><a href="https://plus.google.com/+IshmeetGrewal/" class="icon fa-google-plus"><span class="label">Google Plus</span></a></li>
-          <li><a href="https://www.linkedin.com/in/ishmeetgrewal" class="icon fa-linkedin"><span class="label">LinkedIN</span></a></li>
-        </ul>
-      </footer>
-    </section>
+{% for post in paginator.posts %}
+<article class="hentry">
+  <header>
+    {% if post.image.feature %}
+      <div class="entry-image-index">
+        <a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}"><img src="{{ site.url }}/images/{{ post.image.feature }}" alt="{{ post.title }}"></a>
+      </div><!-- /.entry-image -->
+    {% endif %}
+    <div class="entry-meta">
+      <span class="entry-date date published updated"><time datetime="{{ post.date | date_to_xmlschema }}"><a href="{{ site.url }}{{ post.url }}">{{ post.date | date: "%B %d, %Y" }}</a></time></span><span class="author vcard"><span class="fn"><a href="{{ site.url }}/about/" title="About {{ site.owner.name }}">{{ site.owner.name }}</a></span></span>
+      {% if site.reading_time %}
+      <span class="entry-reading-time">
+        <i class="fa fa-clock-o"></i>
+        {% assign readtime = post.content | number_of_words | divided_by:site.words_per_minute %}
+        Reading time ~{% if readtime <= 1 %}1 minute{% else %}{{ readtime }} minutes{% endif %}
+      </span><!-- /.entry-reading-time -->
+      {% endif %}
+    </div><!-- /.entry-meta -->
+    {% if post.link %}
+      <h1 class="entry-title"><a href="{{ site.url }}{{ post.url }}" class="permalink" rel="bookmark" title="{{ post.title }}"><i class="fa fa-bookmark"></i></a> <a href="{{ post.link }}">{{ post.title }}</a></h1>
+    {% else %}
+      <h1 class="entry-title"><a href="{{ site.url }}{{ post.url }}" rel="bookmark" title="{{ post.title }}" itemprop="url">{{ post.title }}</a></h1>
+    {% endif %}
+  </header>
+  <div class="entry-content">
+    {{ post.content }}
+  </div><!-- /.entry-content -->
+</article><!-- /.hentry -->
+{% endfor %}
 
-  <!-- Main -->
-    <div id="main">
-
-      <!-- One -->
-        <section id="one">
-          <div class="container">
-            <header class="major">
-              <h2>Welcome!</h2>
-              <p>I am a computer science student aspiring to be software engineer. Harboring a passion for programming, I travel the world and constantly search for opportunities to learn something new.</p>
-            </header>
-          </div>
-        </section>
-
-      <!-- Two -->
-        <section id="two">
-          <div class="container">
-            <h3>Education and Experience</h3>
-            <div class="features">
-              <article>
-                <a href="http://www.osu.edu" class="image"><img src="public/images/osu.jpg" alt="" /></a>
-                <div class="inner">
-                  <h4>The Ohio State University</h4>
-                  <h5>Computer Science Student</h5>
-                  <h5 style="color:#55ACEE">Present</h5>
-                  <p>I am also involved with Engineers for Community Service, The Collegiate Web Developers Group, and I travel and serve through Buck-I-SERV.</p>
-                </div>
-              </article>
-              <article>
-                <a href="http://www.geaviation.com/" class="image"><img src="public/images/ge.jpg" alt="" /></a>
-                <div class="inner">
-                  <h4>GE Aviation</h4>
-                  <h5>Information Technology Leadership Program Intern</h5>
-                  <h5 style="color:#55ACEE">Summer 2014</h5>
-                  <p>I helped to redesign internal support websites using modern web technologies.</p>
-                </div>
-              </article>
-              <article>
-                <a href="http://www.marathonpetroleum.com/" class="image"><img src="public/images/marathon.jpg" alt="" /></a>
-                <div class="inner">
-                  <h4>Marathon Petroleum Company</h4>
-                  <h5>IT Services Intern</h5>
-                  <h5 style="color:#55ACEE">Spring 2014</h5>
-                  <p>I worked with SAP Data Services and Information Steward tool to assist with Master Data Management and maintaining Data Quality.</p>
-                </div>
-              </article>
-              <article>
-                <a href="http://oia.osu.edu/" class="image"><img src="public/images/oia.jpg" alt="" /></a>
-                <div class="inner">
-                  <h4>Office of International Affairs, OSU</h4>
-                  <h5>Orientation Leader</h5>
-                  <h5 style="color:#55ACEE">Summer 2013</h5>
-                  <p>I welcomed international students to The Ohio State University by participating in cultural adaptation sessions and providing help with campus resources.</p>
-                </div>
-              </article>
-            </div>
-          </div>
-        </section>
-
-        
-
-      <!-- Three -->
-        <section id="three">
-          <div class="container">
-            <h3>Things I can do</h3>
-            <p>I have many skills and love to learn new ones everyday. I like web and mobile app development and I read a lot and play sports in my spare time.</p>
-            <ul class="feature-icons">
-              <li class="fa-code">Write all the code</li>
-              <li class="fa-book">Read lots of books</li>
-              <li class="fa-coffee">Drink much coffee</li>
-              <li class="fa-comment">Chat about stuff</li>
-              <li class="fa-plane">Travel Everywhere</li>
-              <li class="fa-mobile">Make Mobile Apps</li>
-              <li class="fa-graduation-cap">Learn Everything</li>
-              <li class="fa-futbol-o">Play Sports</li>
-            </ul>
-          </div>
-        </section>
-      
-      <!-- Four -->
-        <section id="four">
-          <div class="container">
-            <a class="button special" href="/blog"><h3 style="color:#fff">Blog&nbsp;<i class="fa fa-pencil fa-lg"></i></h3></a>
-            <p></p>
-            <p>The best way to learn is to teach. Hence, whenever I learn something new, I try to write about it in my Blog. I also share stories from my travels on here.</p>
-            <div class="features">
-              {% for post in site.posts limit:4 %}
-              <article>
-                <div class="inner">
-                  <h4>{{ post.title }}</h4>
-                  <h5 style="color:#55ACEE">{{ post.date | date: "%b %-d, %Y" }}</h5>
-                  <p>{{ post.summary }}&nbsp;<a href="{{ post.url }}">Read More <i class="fa fa-angle-right"></i></a></p>
-                </div>
-              </article>
-              {% endfor %}
-            </div>
-          </div>
-        </section>
-
-  <!-- Footer -->
-    <section id="footer">
-      <div class="container">
-        <ul class="copyright">
-          <li>&copy;2014 Ishmeet Grewal. All rights reserved.</li>
-        </ul>
-      </div>
-    </section>
-
-</div>
-</div>
+<div class="pagination">
+  {% if paginator.previous_page %}
+    {% if paginator.previous_page == 1 %}
+      <a href="{{ site.url }}" class="btn">Previous</a>
+    {% else %}
+      <a href="{{ site.url }}/page{{ paginator.previous_page }}" class="btn">Previous</a>
+    {% endif %}
+  {% else %}
+    Previous
+  {% endif %}
+  <ul class="inline-list">
+    <li>
+      {% if paginator.page == 1 %}
+        <span class="current-page">1</span>
+      {% else %}
+        <a href="{{ site.url }}">1</a>
+      {% endif %}
+    </li>
+    {% for count in (2..paginator.total_pages) %}
+      <li>
+        {% if count == paginator.page %}
+          <span class="current-page">{{ count }}</span>
+        {% else %}
+          <a href="{{ site.url }}/page{{ count }}">{{ count }}</a>
+        {% endif %}
+      </li>
+    {% endfor %}
+  </ul>
+  {% if paginator.next_page %}
+    <a href="{{ site.url }}/page{{ paginator.next_page }}" class="btn">Next</a>
+  {% else %}
+    Next
+  {% endif %}
+</div><!-- /.pagination -->

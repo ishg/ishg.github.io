@@ -3,6 +3,8 @@ layout: post
 title: Engine Brakes
 summary: Trucks and brakes.
 comments: True
+share: false
+tags: [learning]
 ---
 
 Often while driving, I have noticed a road sign labeled “No Engine Brake.” These signs can usually be found in residential neighborhoods, and most likely right before a steep decline in the road. Today I learned what engine brakes are used for.

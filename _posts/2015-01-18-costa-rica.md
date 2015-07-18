@@ -3,6 +3,10 @@ layout: post
 title: Costa Rica
 summary: My Adventure In Paradise!
 comments: True
+tags: [travel]
+share: false
+image:
+  feature: costa-rica-feature.jpg
 ---
 
 I spent 10 days in Costa Rica with a group on a Service-Adventure trip through Buck-I-SERV at OSU. This ended up being mostly an adventure trip. We started off by hiking seven miles into the rainforest where we spent five days staying with homestays, helping out with daily tasks, and maintaining trails. Along the way, we went caving, waterfall rappelling, tree climbing, and whitewater rafting, along with a LOT of hiking. We ended the trip by going to Uvita National Park where we learned how to surf and cleaned up the beach. This was the essence of our itinerary.

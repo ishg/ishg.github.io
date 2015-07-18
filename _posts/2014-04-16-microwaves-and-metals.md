@@ -3,9 +3,12 @@ layout: post
 title: Microwaves and Metals
 summary: Why can't we put metals in microwave ovens?
 comments: True
+share: false
+tags: [learning]
 ---
 
-![Microwave](/assets/microwave.jpg "Microwave" )
+![Microwave]({{ site.url }}/images/microwave.jpg)
+{: .image-right}
 
 From heating up the leftover meals to making popcorn, every time I open a microwave door, a little voice in the back of my head reminds me not to use any metal containers. Although I follow the advice every time, I never questioned the meaning behind it.
 

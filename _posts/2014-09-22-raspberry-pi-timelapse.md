@@ -3,6 +3,8 @@ layout: post
 title: Raspberry Pi Timelapse
 summary: I set up a Raspberry Pi to take a picture every 10 seconds at an autocross event. The result was a timelapse video showcasing all the cars that autocrossed.
 comments: True
+share: false
+tags: [tech]
 ---
 
 This weekend, [Byers Imports](http://www.byersimports.com/index.htm) unveiled the new [Jaguar F-Type Coupe](http://www.jaguarusa.com/all-models/f-type/f-type-models/f-type-coupe.html) and invited people to autocross for free. I set up a Raspberry Pi at the start line to record a picture every 10 seconds. It managed to capture every car that autocrossed and a pretty cool view of the moving clouds.  

@@ -3,9 +3,11 @@ layout: post
 title: Airplanes and Contrails
 summary: This is what those white airplane tails in the sky are made of.
 comments: True
+share: false
+tags: [learning]
 ---
 
-![Contrails](/assets/contrails.jpg "Contrails")
+![Contrails](/images/contrails.jpg "Contrails")
 
 When driving back home for the three-day weekend, I noticed a beautiful sunset in my rear-view mirror. The dazzling display of colors was also accompanied by crisscrossing white lines left behind by airplanes. I had always wondered what those elongated clouds in the sky were, so I decided to research more when I arrived home.
 
