@@ -24,15 +24,16 @@ At OSU, I am involved with Engineers for Community Service and I travel and serv
 Developing mobile web applications using JavaScript and in-house frameworks.
 
 #### GE Aviation 
-#### Information Technology Leadership Program Intern
-#### May 2014 - August 2014
+##### Information Technology Leadership Program Intern
+##### May 2014 - August 2014
 I redesigned internal support websites using modern web technologies.
 
 #### Marathon Petroleum Company
-#### IT Services Intern
-#### January 2014 - May 2014
+##### IT Services Intern
+##### January 2014 - May 2014
 I worked with SAP Data Services and Information Steward tool to assist with Master Data Management and maintaining Data Quality.
 
 #### Office of International Affairs @ OSU
-#### Orientation Leader
+##### Orientation Leader
+##### July 2013 - January 2014
 I welcomed international students to The Ohio State University by participating in cultural adaptation sessions and providing help with campus resources.
