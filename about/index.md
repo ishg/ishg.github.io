@@ -37,3 +37,16 @@ I worked with SAP Data Services and Information Steward tool to assist with Mast
 ##### Orientation Leader
 ##### July 2013 - January 2014
 I welcomed international students to The Ohio State University by participating in cultural adaptation sessions and providing help with campus resources.
+
+### Things I can do
+
+<ul class="fa-ul">
+  <li> <i class="fa-li fa fa-code"></i>Write all the code</li>
+  <li> <i class="fa-li fa fa-book"></i>Read lots of books</li>
+  <li> <i class="fa-li fa fa-coffee"></i>Drink much coffee</li>
+  <li> <i class="fa-li fa fa-comment"></i>Chat about stuff</li>
+  <li> <i class="fa-li fa fa-plane"></i>Travel Everywhere</li> 
+  <li> <i class="fa-li fa fa-mobile"></i>Make Mobile Apps</li>
+  <li> <i class="fa-li fa fa-graduation-cap"></i>Learn Everything</li>
+  <li> <i class="fa-li fa fa-futbol-o"></i>Play Sports</li>
+</ul>
