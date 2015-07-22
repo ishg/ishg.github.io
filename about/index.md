@@ -4,7 +4,7 @@ title: Ishmeet Grewal
 image:
   feature: clouds.jpg
 comments: false
-modified: 2015-07-18
+modified: 2015-07-22
 share: false
 ---
 
@@ -16,7 +16,7 @@ I am a computer science student aspiring to be software engineer. Harboring a pa
 #### The Ohio State University
 ##### Computer Science and Engineering Student
 ##### 2012 - Present
-At OSU, I am involved with Engineers for Community Service and I travel and serve through Buck-I-SERV. I am also a member of the Outdoor Adventure Staff. 
+At OSU, I am involved with Engineers for Community Service and I travel and serve through Buck-I-SERV. I am also a staff member and Assistant Trip Leader at the Outdoor Adventure Center. 
 
 #### JP Morgan Chase & Co.
 ##### Application Development Intern
