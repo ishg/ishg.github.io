@@ -102,7 +102,7 @@ When I was in Australia in May, I met two of the most amazing people I've come a
 Marina left Italy and arrived in Fiji at the age of 35. Anthony met her on a beach and made her a cup of coffee. A year later they were married. Believe me, Anthony has made me a cup or two of coffee too, and if Marina hadn't already claimed him...
 
 <figure class="half">
-	<img src="/images/anthony.JPG" alt="">
+	<img style="height:300px;" src="/images/anthony.JPG" alt="">
 	<img style="height:300px;" src="/images/marina.JPG" alt="">
 	<figcaption style="text-align:center">Anthony and Marina were also camera shy.</figcaption>
 </figure>
