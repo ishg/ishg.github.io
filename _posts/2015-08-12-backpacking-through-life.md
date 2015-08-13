@@ -32,9 +32,7 @@ In this post, I am reflecting upon and sharing the many new experiences I have h
 
 I watched Up in the Air on the flight that took me to the southern hemisphere for the first time, to Australia. I had originally watched the movie when it came out in 2009. But in 2009, I was a skinny high school freshman with a few hairs on my chain and reading Twilight alone at the lunch table. So what did I know? The second time around, a lot of things stood out in the movie, specifically Ryan Bingham's motivational speech. It did what is was supposed to, it motivated me. 
 
-Ryan flies around the country and helps companies lay off their employees. He spends a majority of his year in airports and in flights. Additionaly, he is also a motivational speaker and he talks about backpacks, hence the title of this post. If you are not familiar with the movie, here's the video. But if you don't want to watch it, I've included a transcript as well.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UsRP9EUrXjo" frameborder="0" allowfullscreen></iframe>
+Ryan flies around the country and helps companies lay off their employees. He spends a majority of his year in airports and in flights. Additionaly, he is also a motivational speaker and he talks about backpacks, hence the title of this post. If you are not familiar with the movie, [here's the link to the video](https://www.youtube.com/watch?v=UsRP9EUrXjo). But if you don't want to watch it, I've included a transcript as well.
 
 > ### What's In Your Backpack?
 >
