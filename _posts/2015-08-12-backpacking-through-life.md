@@ -34,7 +34,7 @@ I watched Up in the Air on the flight that took me to the southern hemisphere fo
 
 Ryan flies around the country and helps companies lay off their employees. He spends a majority of his year in airports and in flights. Additionaly, he is also a motivational speaker and he talks about backpacks, hence the title of this post. If you are not familiar with the movie, here's the video. But if you don't want to watch it, I've included a transcript as well.
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=UsRP9EUrXjo" frameborder="0"> </iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UsRP9EUrXjo" frameborder="0" allowfullscreen></iframe>
 
 > ### What's In Your Backpack?
 >
