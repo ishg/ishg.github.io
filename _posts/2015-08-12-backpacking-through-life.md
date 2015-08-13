@@ -6,7 +6,7 @@ categories:
 description:
 tags: [travel, life]
 image:
-  feature: trees-background.jpg
+  feature: green-background.jpg
 comments: true
 share: true
 date: 2015-08-12
