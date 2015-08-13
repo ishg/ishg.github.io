@@ -6,7 +6,7 @@ comments: True
 tags: [travel]
 share: false
 image:
-  honduras: honduras-feature.jpg
+  feature: honduras-feature.jpg
 ---
 
 I participated in an Engineering Service-Learning course through OSU where we traveled to Honduras over Spring Break 2015 and implemented sustainable engineering solutions for an orphanage. 
