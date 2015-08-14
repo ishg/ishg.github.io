@@ -93,7 +93,7 @@ Why would he make this decision? If you were to visit the orphanage, you will un
 	<figcaption style="text-align:center">Chris is happy where he is.</figcaption>
 </figure>
 
-I think Chris realizes this. To him, a well paying job working in a fancy laboratory or teaching at a prestigious academic instiution doesn't hold a candle to when he picks up little Erik and puts him on his shoulders. The bright joy that lights up his face is evidence of this. It's never too late to do what makes you happy. Having Chris's story in my backpack is a great comfort and encouragement as I search for what makes me happy.
+I think Chris realizes this. To him, a well paying job working in a fancy laboratory or teaching at a prestigious academic institution doesn't hold a candle to when he picks up little Erik and puts him on his shoulders. The bright joy that lights up his face is evidence of this. It's never too late to do what makes you happy. Having Chris's story in my backpack is a great comfort and encouragement as I search for what makes me happy.
 
 ### 3. An Italian art curator left everything behind and found love in Fiji
 
