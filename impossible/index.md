@@ -21,7 +21,7 @@ I will keep the list updated as I tackle some of these goals and I hope that I w
 
 * Do The Air Force PT Test
 * <del>Run A 5K</del><span class="done"> [June 2014 in 24:58]
-* Run A 10K
+* <del>Run A 10K</del><span class="done"> [<a href="http://ishmeetgrewal.com/my-first-10k/">August 2015 in 54:16</a>]
 * Run A Half Marathon
 * Run A Marathon
 * Comrades Marathon (56 miles!)
@@ -83,7 +83,7 @@ I will keep the list updated as I tackle some of these goals and I hope that I w
 * Get a Wingsuit License
 * <del>Go Snorkeling</del><span class="done"> [June 2015 @ Great Barrier Reef]</span>
 * <del>Go Scuba diving</del><span class="done"> [June 2015 @ Great Barrier Reef]</span>
-* <del>Go Surfing</del><span class="done"> [<a href="https://instagram.com/p/zS-kKymSEK/?modal=true">Jauary 2015 in Costa Rica</a>]
+* <del>Go Surfing</del><span class="done"> [<a href="https://instagram.com/p/zS-kKymSEK/?modal=true">January 2015 in Costa Rica</a>]
 * <del>Go Bungee Jumping</del><span class="done"> [June 2015 @ AJ Hackett Bungy Cairns]</span>
 * Go Paragliding
 * Go Parasailing
