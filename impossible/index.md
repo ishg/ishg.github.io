@@ -128,7 +128,7 @@ I will keep the list updated as I tackle some of these goals and I hope that I w
 * Make An Android App
 * Make An IOS App
 * <del>Make A Website</del><span class="done"> [Went Online in 2013]
-* Learn SQL
+* <del>Learn SQL</del><span class="done"> [Autumn 2015]</span>
 * Learn C#
 * Learn Python
-* <del>Learn How To Create GUIs</del><span class="done"> [January 2015]
+* <del>Learn How To Create GUIs</del><span class="done"> [January 2015]</span>
