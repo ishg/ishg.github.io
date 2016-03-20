@@ -30,7 +30,9 @@ sass:
 markdown: kramdown
 highlighter: rouge
 paginate: 5
-permalink: /:categories/:title
+#permalink: /:categories/:title
 gems:
   - jekyll-sitemap
   - jekyll-paginate
+
+paginate_path: "/blog/page:num/"

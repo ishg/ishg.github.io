@@ -1,0 +1,68 @@
+---
+---
+
+#main{
+  .avatar{
+    img{
+      width:40%;
+    }
+  }
+}
+
+.brand-logo{
+  font-weight: 200;
+}
+
+del {
+  color: red;
+}
+
+span.done {
+  color: #268BD2;
+}
+
+img{
+  display: block;
+  margin: 0 auto;
+  border-radius: 10px;
+  max-width: 100%;
+}
+
+.article-wrapper{
+  
+  margin-top: 20px;
+
+  .feature-image{
+    margin:0;
+    width:100%;
+    img{
+      border-radius: 0px;
+    }
+  }
+  
+  article{
+    padding: 20px 50px 20px 50px;
+
+    .post-meta{
+      font-style: italic;
+      font-size: 0.75em;
+    }
+
+  }
+
+}
+
+figcaption{
+  font-style: italic;
+  font-size: 0.75em;
+}
+
+
+
+footer.page-footer{
+  padding-top: 0px;
+}
+
+
+
+

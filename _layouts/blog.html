@@ -4,17 +4,61 @@
   
     {% include head.html %}
 
+    <!--Import Google Icon Font-->
+    <link href="http://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
     <!-- Compiled and minified CSS -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.5/css/materialize.min.css">
+
+    <link rel="stylesheet" href="{{site.url}}/css/style.css">
 
     <!-- Compiled and minified JavaScript -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.5/js/materialize.min.js"></script>
 
+    <script src="{{site.url}}/js/script.js"></script>
+
   </head>
 
-  <body>
+  <body class="blue-grey lighten-4 blog-body">
+  {% include browser_upgrade.html %}
+
+    <div class="navbar-fixed">
+      <nav style="padding-left:20px;" class="blue">
+        <div class="nav-wrapper">
+          <a href="{{site.url}}" class="brand-logo">Ishmeet</a>
+          <a href="#" data-activates="mobile-demo" class="button-collapse"><i class="material-icons">menu</i></a>
+          <ul class="right hide-on-med-and-down">
+            <li><a href="{{site.url}}"><i class="material-icons left">home</i>HOME</a></li>
+            <li><a href="{{site.url}}/portfolio"><i class="material-icons left">web</i>PORTFOLIO</a></li>
+            <li><a href="/blog/">Posts</a></li>
+            <li><a href="/blog/tags">Tags</a></li>
+            <li><a href="/blog/impossible">Impossible List</a></li>
+          </ul>
+          <ul class="side-nav" id="mobile-demo">
+            <li><a href="{{site.url}}"><i class="material-icons left">home</i>Home</a></li>
+            <li><a href="{{site.url}}/portfolio"><i class="material-icons left">web</i>Portfolio</a></li>
+            <hr/>
+            <li><a href="/blog/">Posts</a></li>
+            <li><a href="/blog/tags">Tags</a></li>
+            <li><a href="/blog/impossible">Impossible List</a></li>
+          </ul>
+        </div>
+      </nav>
+    </div>
+
+    <div class="container">
 
     {{ content }}
+
+    </div>
+
+    <footer class="page-footer">
+      <div class="footer-copyright blue">
+        <div class="container">
+        © 2014 Ishmeet Grewal
+        </div>
+      </div>
+    </footer>
 
   </body>
 
