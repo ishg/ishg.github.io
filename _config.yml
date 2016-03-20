@@ -2,7 +2,8 @@
 title: Ishmeet Grewal
 description: student. traveler. programmer.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://www.ishmeetgrewal.com" # the base hostname & protocol for your site
+#url: "http://www.ishmeetgrewal.com" # the base hostname & protocol for your site
+url: "http://localhost:4000"
 google_analytics: UA-45766261-2
 
 
@@ -13,7 +14,7 @@ owner:
   bio:            "I am a computer science student aspiring to be software engineer. I travel the world and constantly search for opportunities to learn something new."
   email:          
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        ishmeetgrewal
+  twitter:        
   facebook:       ishmeet.grewal
   github:         ishg
   linkedin:       ishmeetgrewal
