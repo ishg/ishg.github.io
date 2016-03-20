@@ -1,0 +1,35 @@
+# Site settings
+title: Ishmeet Grewal
+description: student. traveler. programmer.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://www.ishmeetgrewal.com" # the base hostname & protocol for your site
+google_analytics: UA-45766261-2
+
+
+# Owner/author information
+owner:
+  name:           Ishmeet Grewal
+  avatar:         avatar.jpg
+  bio:            "I am a computer science student aspiring to be software engineer. I travel the world and constantly search for opportunities to learn something new."
+  email:          
+  # Social networking links used in footer. Update and remove as you like.
+  twitter:        ishmeetgrewal
+  facebook:       ishmeet.grewal
+  github:         ishg
+  linkedin:       ishmeetgrewal
+  instagram:      ishmeetgrewal      
+  google_plus:    +IshmeetGrewal
+
+  disqus_shortname: ishmeetgrewal
+
+# Build settings
+sass:
+  sass_dir: _sass
+  style: compressed
+markdown: kramdown
+highlighter: rouge
+paginate: 5
+permalink: /:categories/:title
+gems:
+  - jekyll-sitemap
+  - jekyll-paginate

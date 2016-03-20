@@ -1,0 +1,17 @@
+# Menu navigation links
+
+#- title: Theme Setup
+#  url: /theme-setup/
+
+- title: Impossible List
+  url: /impossible/
+
+- title: Travels
+  url: /travels/
+
+- title: Photography
+  url: /photography/
+
+#- title: External Link
+#  url: http://mademistakes.com
+
