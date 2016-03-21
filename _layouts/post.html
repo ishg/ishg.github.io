@@ -9,7 +9,7 @@ layout: blog
   {% endif %}
   <article class="flow-text">
     <h1><a href="{{ page.url }}">{{ page.title }}</a></h1>
-    <div class="content">
+    <div class="content {{page.layout}}">
       {{ page.content }}
     </div>
     {% include scripts.html %}

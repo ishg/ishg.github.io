@@ -3,6 +3,7 @@ layout: post
 title: Impossible List
 comments: true
 modified: 2015-06-03
+id: impossible
 ---
 
 Inspired by <a href="http://www.impossiblehq.com">Joel Runyon’s</a> quest to do the impossible, I created my own list of things to do before I die.
@@ -126,7 +127,7 @@ I will keep the list updated as I tackle some of these goals and I hope that I w
 ### Computer Skills
 
 * Make An Android App
-* Make An IOS App
+* Make An iOS App
 * <del>Make A Website</del><span class="done"> [Went Online in 2013]
 * <del>Learn SQL</del><span class="done"> [Autumn 2015]</span>
 * Learn C#

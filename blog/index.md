@@ -14,7 +14,7 @@ layout: blog
     <article class="flow-text">
       <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
       <span class="post-meta"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%b %-d, %Y" }}</time></span>
-      <div class="content">
+      <div class="content {{post.layout}}">
         {{ post.content }}
       </div>
     </article>
