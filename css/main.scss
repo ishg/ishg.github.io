@@ -70,4 +70,16 @@
   @import 'layout/footer';
   @import 'layout/wrapper';
   
-  
+
+// Custom for pain mage
+#main{
+  .avatar{
+    img{
+      width:40%;
+    }
+  }
+}
+
+.brand-logo{
+  font-weight: 200;
+}

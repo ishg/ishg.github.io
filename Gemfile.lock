@@ -40,6 +40,3 @@ DEPENDENCIES
   jekyll-sitemap (~> 0.10.0)
   rouge (~> 1.10, >= 1.10.1)
   sass (~> 3.4, >= 3.4.21)
-
-BUNDLED WITH
-   1.11.2
