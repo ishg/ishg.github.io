@@ -11,7 +11,7 @@ layout: blog
         <img src="{{site.url}}/images/{{post.image.feature}}" alt="{{post.title}}">
       </div>
     {% endif %}
-    <article class="flow-text">
+    <article>
       <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
       <span class="post-meta"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%b %-d, %Y" }}</time></span>
       <div class="content {{post.layout}}">
