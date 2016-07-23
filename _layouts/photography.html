@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<!--
+	Lens by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		{% include head.html %}
+
+    <link rel="stylesheet" href="{{ "/css/photography-main.css" | prepend: site.baseurl }}">
+	</head>
+	
+	<body class="is-loading-0 is-loading-1 is-loading-2">
+
+		{{ content }}
+
+		
+		<!-- Scripts -->
+			<script src="{{ "/js/skel.min.js" | prepend: site.baseurl }}"></script>
+			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+			<script src="{{ "/js/photography-main.js" | prepend: site.baseurl }}"></script>
+
+	</body>
+</html>

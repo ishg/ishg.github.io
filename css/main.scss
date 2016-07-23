@@ -1,10 +1,10 @@
 ---
 ---
 
-@import 'libs/vars';
-@import 'libs/functions';
-@import 'libs/mixins';
-@import 'libs/skel';
+@import 'landing/libs/vars';
+@import 'landing/libs/functions';
+@import 'landing/libs/mixins';
+@import 'landing/libs/skel';
 @import url('http://fonts.googleapis.com/css?family=Source+Sans+Pro:300');
 
 /*
@@ -54,21 +54,21 @@
 
 // Base.
 
-  @import 'base/page';
-  @import 'base/typography';
+  @import 'landing/base/page';
+  @import 'landing/base/typography';
 
 // Component.
 
-  @import 'components/form';
-  @import 'components/icon';
-  @import 'components/list';
-  @import 'components/button';
+  @import 'landing/components/form';
+  @import 'landing/components/icon';
+  @import 'landing/components/list';
+  @import 'landing/components/button';
 
 // Layout.
 
-  @import 'layout/main';
-  @import 'layout/footer';
-  @import 'layout/wrapper';
+  @import 'landing/layout/main';
+  @import 'landing/layout/footer';
+  @import 'landing/layout/wrapper';
   
 
 // Custom for pain mage
