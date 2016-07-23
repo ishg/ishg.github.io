@@ -37,6 +37,7 @@ highlighter: rouge
 markdown: kramdown
 gems:
 - jekyll-sitemap
+- jekyll-paginate
 sass:
   sass_dir: _sass
   style: compressed
@@ -47,13 +48,13 @@ kramdown:
   footnote_nr: 1
   entity_output: as_char
   toc_levels: 1..6
-  use_coderay: true
+  enable_coderay: true
   coderay:
-    coderay_line_numbers: nil
-    coderay_line_numbers_start: 1
-    coderay_tab_width: 4
-    coderay_bold_every: 10
-    coderay_css: class
+    line_numbers: nil
+    line_numbers_start: 1
+    tab_width: 4
+    bold_every: 10
+    css: class
 include:
 - ".htaccess"
 exclude:
