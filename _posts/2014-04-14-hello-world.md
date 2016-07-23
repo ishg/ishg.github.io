@@ -1,8 +1,9 @@
 ---
-layout: post
 title: Hello World
+date: 2014-04-14 00:00:00 -04:00
+layout: post
 summary: First Blog Post!
-comments: True
+comments: true
 share: false
 ---
 

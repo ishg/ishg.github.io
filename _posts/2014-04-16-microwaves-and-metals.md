@@ -1,10 +1,12 @@
 ---
-layout: post
 title: Microwaves and Metals
+date: 2014-04-16 00:00:00 -04:00
+tags:
+- learning
+layout: post
 summary: Why can't we put metals in microwave ovens?
-comments: True
+comments: true
 share: false
-tags: [learning]
 ---
 
 ![Microwave]({{ site.url }}/images/microwave.jpg)

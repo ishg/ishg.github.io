@@ -1,9 +1,10 @@
 ---
-layout: page
 title: Honduras
-summary: I did an engineering service learning project in Monta&ntilde;a de Luz, Honduras. 
-comments: True
-tags: [travel]
+layout: page
+summary: I did an engineering service learning project in Monta&ntilde;a de Luz, Honduras.
+comments: true
+tags:
+- travel
 share: false
 image:
   feature: honduras-feature.jpg

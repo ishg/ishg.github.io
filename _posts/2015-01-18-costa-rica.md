@@ -1,9 +1,11 @@
 ---
-layout: post
 title: Costa Rica
+date: 2015-01-18 00:00:00 -05:00
+tags:
+- travel
+layout: post
 summary: My Adventure In Paradise!
-comments: True
-tags: [travel]
+comments: true
 share: false
 image:
   feature: costa-rica-feature.jpg

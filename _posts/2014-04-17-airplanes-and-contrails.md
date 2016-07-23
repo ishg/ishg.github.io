@@ -1,10 +1,12 @@
 ---
-layout: post
 title: Airplanes and Contrails
+date: 2014-04-17 00:00:00 -04:00
+tags:
+- learning
+layout: post
 summary: This is what those white airplane tails in the sky are made of.
-comments: True
+comments: true
 share: false
-tags: [learning]
 ---
 
 ![Contrails](/images/contrails.jpg "Contrails")

@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Appalachia
+layout: page
 ---
 
 In May 2013, I got a chance to visit the Appalachian mountains as part of a <a href="http://buckiserv.osu.edu">Buck-I-SERV</a> trip.

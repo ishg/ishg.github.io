@@ -1,10 +1,12 @@
 ---
-layout: post
 title: Jet Engines
+date: 2014-04-22 00:00:00 -04:00
+tags:
+- learning
+layout: post
 summary: I worked at GE Aviation, this is what I learned about Jet Engines.
-comments: True
+comments: true
 share: false
-tags: [learning]
 ---
 
 I love to travel. Have you figured that out yet? My passion for travelling takes me to new cities, countries, and continents. I usually fly to places, but I didn’t know how a jet engine works to take me to new destinations. Since I will be working at GE Aviation this summer, I decided to figure out how a jet engine works.

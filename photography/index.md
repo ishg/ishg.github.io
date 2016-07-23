@@ -1,8 +1,8 @@
 ---
-layout: page
 title: My Photos
+layout: page
 comments: true
-modified: 2015-08-14
+modified: 2015-08-13 20:00:00 -04:00
 ---
 
 # #365Project

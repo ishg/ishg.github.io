@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Cinque Terre
+layout: page
 comments: true
 share: false
 ---

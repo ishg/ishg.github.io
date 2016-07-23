@@ -1,9 +1,10 @@
 ---
-layout: page
 title: Australia
-summary: My adventure trip in the land down under! 
-comments: True
-tags: [travel]
+layout: page
+summary: My adventure trip in the land down under!
+comments: true
+tags:
+- travel
 share: false
 image:
   background: australia-feature.jpg

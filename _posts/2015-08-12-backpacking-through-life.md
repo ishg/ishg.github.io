@@ -1,15 +1,16 @@
 ---
+title: Backpacking Through Life
+date: 2015-08-12 00:00:00 -04:00
+tags:
+- travel
+- life
 layout: post
-title: "Backpacking Through Life"
-modified:
-categories: 
-description:
-tags: [travel, life]
+modified: 
+description: 
 image:
   feature: green-background.jpg
 comments: true
 share: true
-date: 2015-08-12
 ---
 
 This year has been good to me. I have visited three countries and stepped on another continent. I have met a lot of new people and made some great new friends. Many new experiences have enriched my life and given me a better perspective of the world, of people, and of myself. 

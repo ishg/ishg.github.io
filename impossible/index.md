@@ -1,8 +1,8 @@
 ---
-layout: page
 title: Impossible List
+layout: page
 comments: true
-modified: 2015-06-03
+modified: 2015-06-02 20:00:00 -04:00
 ---
 
 Inspired by <a href="http://www.impossiblehq.com">Joel Runyon’s</a> quest to do the impossible, I created my own list of things to do before I die.
