@@ -65,138 +65,26 @@ layout: blog
           <p>I love and live to learn. I have written down some of the more interesting things that have happened to me in my life.</p>
         </header>
         <section class="tiles">
-          <article class="style1">
-            <span class="image">
-              <img src="images/pic01.jpg" alt="" />
-            </span>
-            <a href="generic.html">
-              <h2>Magna</h2>
-              <div class="content">
-                <p>Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.</p>
-              </div>
-            </a>
-          </article>
-          <article class="style2">
-            <span class="image">
-              <img src="images/pic02.jpg" alt="" />
-            </span>
-            <a href="generic.html">
-              <h2>Lorem</h2>
-              <div class="content">
-                <p>Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.</p>
-              </div>
-            </a>
-          </article>
-          <article class="style3">
-            <span class="image">
-              <img src="images/pic03.jpg" alt="" />
-            </span>
-            <a href="generic.html">
-              <h2>Feugiat</h2>
-              <div class="content">
-                <p>Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.</p>
-              </div>
-            </a>
-          </article>
-          <article class="style4">
-            <span class="image">
-              <img src="images/pic04.jpg" alt="" />
-            </span>
-            <a href="generic.html">
-              <h2>Tempus</h2>
-              <div class="content">
-                <p>Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.</p>
-              </div>
-            </a>
-          </article>
-          <article class="style5">
-            <span class="image">
-              <img src="images/pic05.jpg" alt="" />
-            </span>
-            <a href="generic.html">
-              <h2>Aliquam</h2>
-              <div class="content">
-                <p>Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.</p>
-              </div>
-            </a>
-          </article>
-          <article class="style6">
-            <span class="image">
-              <img src="images/pic06.jpg" alt="" />
-            </span>
-            <a href="generic.html">
-              <h2>Veroeros</h2>
-              <div class="content">
-                <p>Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.</p>
-              </div>
-            </a>
-          </article>
-          <article class="style2">
-            <span class="image">
-              <img src="images/pic07.jpg" alt="" />
-            </span>
-            <a href="generic.html">
-              <h2>Ipsum</h2>
-              <div class="content">
-                <p>Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.</p>
-              </div>
-            </a>
-          </article>
-          <article class="style3">
-            <span class="image">
-              <img src="images/pic08.jpg" alt="" />
-            </span>
-            <a href="generic.html">
-              <h2>Dolor</h2>
-              <div class="content">
-                <p>Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.</p>
-              </div>
-            </a>
-          </article>
-          <article class="style1">
-            <span class="image">
-              <img src="images/pic09.jpg" alt="" />
-            </span>
-            <a href="generic.html">
-              <h2>Nullam</h2>
-              <div class="content">
-                <p>Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.</p>
-              </div>
-            </a>
-          </article>
-          <article class="style5">
-            <span class="image">
-              <img src="images/pic10.jpg" alt="" />
-            </span>
-            <a href="generic.html">
-              <h2>Ultricies</h2>
-              <div class="content">
-                <p>Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.</p>
-              </div>
-            </a>
-          </article>
-          <article class="style6">
-            <span class="image">
-              <img src="images/pic11.jpg" alt="" />
-            </span>
-            <a href="generic.html">
-              <h2>Dictum</h2>
-              <div class="content">
-                <p>Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.</p>
-              </div>
-            </a>
-          </article>
-          <article class="style4">
-            <span class="image">
-              <img src="images/pic12.jpg" alt="" />
-            </span>
-            <a href="generic.html">
-              <h2>Pretium</h2>
-              <div class="content">
-                <p>Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.</p>
-              </div>
-            </a>
-          </article>
+          {% for post in site.posts %}
+            {% assign loopindex = forloop.index | modulo: 10 %}
+            <article class="style{{loopindex}}">
+              <span class="image">
+                {% if post.image.feature %}
+                  <div class="feature-image">
+                    <img src="{{site.url}}/images/{{post.image.feature}}" alt="{{post.title}}">
+                  </div>
+                {% else %}
+                  <img src="images/pic02.jpg" alt="" />
+                {% endif %}
+              </span>
+              <a href="#">
+                <h2>{{post.title}}</h2>
+                <div class="content">
+                  <p>{{post.summary}}</p>
+                </div>
+              </a>
+            </article>
+          {% endfor %}
         </section>
       </div>
     </div>
