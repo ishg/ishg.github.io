@@ -1,9 +1,10 @@
 ---
-layout: page
 title: Costa Rica
+layout: page
 summary: My Adventure In Paradise!
-comments: True
-tags: [travel]
+comments: true
+tags:
+- travel
 share: false
 image:
   background: costa-rica-feature.jpg

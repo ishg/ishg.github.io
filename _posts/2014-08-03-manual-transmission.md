@@ -1,10 +1,13 @@
 ---
-layout: post
 title: Manual Transmission
-summary: I teach my friend how to drive manual cars and learn a lot about manual transmission in the process.
-comments: True
+date: 2014-08-03 00:00:00 -04:00
+tags:
+- learning
+layout: post
+summary: I teach my friend how to drive manual cars and learn a lot about manual transmission
+  in the process.
+comments: true
 share: false
-tags: [learning]
 ---
 
 Over the past year, I have gradually developed an avid interest in automobiles. Before that, my fascination with cars only extended to the aesthetics. However, after regularly racing go karts this summer and getting hooked on watching Formula 1, I have also come to appreciate the performance of vehicles. In order to understand these beautiful beasts, I am writing a series on the basics of an automobile in order to get an introductory understanding of the involved mechanics.

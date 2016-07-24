@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Firenze
+layout: page
 comments: true
 share: false
 ---

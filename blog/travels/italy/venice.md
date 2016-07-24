@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Venezia
+layout: page
 comments: true
 share: false
 ---

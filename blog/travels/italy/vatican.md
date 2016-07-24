@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Vaticano
+layout: page
 comments: true
 share: false
 ---

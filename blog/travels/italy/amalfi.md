@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Amalfi Coast
+layout: page
 comments: true
 share: false
 ---

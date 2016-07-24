@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Travels
+layout: page
 comments: false
 share: false
 ---
