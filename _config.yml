@@ -1,85 +1,38 @@
----
+# Site settings
 title: Ishmeet Grewal
-timezone: America/New_York
-collections:
-  posts:
-    title: Posts
-    output: true
-  uploads:
-    title: Uploads
-    output: true
 description: student. traveler. programmer.
-disqus_shortname: ishmeetgrewal
-reading_time: true
-words_per_minute: 200
-url: http://www.ishmeetgrewal.com
-owner:
-  name: Ishmeet Grewal
-  avatar: avatar.jpg
-  bio: I am a computer science student aspiring to be a software engineer. I travel
-    the world and constantly search for opportunities to learn something new.
-  email: 
-  twitter: 
-  facebook: ishmeet.grewal
-  github: ishg
-  stackexchange: 
-  linkedin: ishmeetgrewal
-  instagram: ishmeetgrewal
-  flickr: 
-  tumblr: 
-  google_plus: "+IshmeetGrewal"
-background: 
+baseurl: "" # the subpath of your site, e.g. /blog
+#url: "http://www.ishmeetgrewal.com" # the base hostname & protocol for your site
+url: "http://localhost:4000"
 google_analytics: UA-45766261-2
-google_verify: 
-bing_verify: 
-future: true
-highlighter: rouge
-markdown: kramdown
-gems:
-- jekyll-sitemap
-- jekyll-paginate
+
+
+# Owner/author information
+owner:
+  name:           Ishmeet Grewal
+  avatar:         avatar.jpg
+  bio:            "I am a computer science student aspiring to be a software engineer. I travel the world and constantly search for opportunities to learn something new."
+  email:          
+  # Social networking links used in footer. Update and remove as you like.
+  twitter:        
+  facebook:       ishmeet.grewal
+  github:         ishg
+  linkedin:       ishmeetgrewal
+  instagram:      ishmeetgrewal      
+  google_plus:    
+
+  disqus_shortname: ishmeetgrewal
+
+# Build settings
 sass:
   sass_dir: _sass
   style: compressed
-permalink: "/:categories/:title/"
+markdown: kramdown
+highlighter: rouge
 paginate: 5
-kramdown:
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  enable_coderay: true
-  coderay:
-    line_numbers: nil
-    line_numbers_start: 1
-    tab_width: 4
-    bold_every: 10
-    css: class
-include:
-- ".htaccess"
-exclude:
-- lib
-- config.rb
-- Capfile
-- config
-- Gemfile
-- Gemfile.lock
-- README.md
-- LICENSE
-- log
-- Rakefile
-- Rakefile.rb
-- tmp
-- less
-- "*.sublime-project"
-- "*.sublime-workspace"
-- test
-- spec
-- Gruntfile.js
-- package.json
-- node_modules
-travels:
-  Appalachia: "/appalachia"
-  Italy: "/italy"
-  Costa Rica: "/costa-rica"
-  Honduras: "/honduras"
+#permalink: /:categories/:title
+gems:
+  - jekyll-sitemap
+  - jekyll-paginate
+
+paginate_path: "/blog/page:num/"

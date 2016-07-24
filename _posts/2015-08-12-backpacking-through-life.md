@@ -5,10 +5,6 @@ tags:
 - travel
 - life
 layout: post
-modified: 
-description: 
-image:
-  feature: green-background.jpg
 comments: true
 share: true
 ---
@@ -67,7 +63,7 @@ The world is vast. There is so much information and so many things to learn that
 Here are a few experiences and memories that I have in my backpack. 
 
 
-### 1. The time when Jesus brought me back my GoPro
+### The time when Jesus brought me back my GoPro
 
 I know, right? You're intrigued. You don't care that I have a GoPro, but you do want to know why Jesus brought it back and how in the world did you possibly miss the second coming? The GoPro is a thing, but the story is what I carry around in my backpack. 
 
@@ -83,7 +79,7 @@ The next day, I returned from surfing in the Pacific Ocean and the GoPro was on 
 No one asked Jes&#250;s to do what he did, but he did it anyway. He wasn't looking for a reward, he was just being a human being and helping someone out. I will carry that with me for the rest of my life. I will be selfless and help people when I can, even if that means going out of my way. 
 
 
-### 2. A PhD in Electrical Engineering is growing crops on a mountain
+### A PhD in Electrical Engineering is growing crops on a mountain
 	
 Dr. Chris Ratcliff spent a lot of time and money in obtaining a PhD in Electrical Engineering. He spent years working on silicon conductor research in a dark basement. But today, he is a volunteer at the Montana de Luz orphanage in Honduras and is focusing on sustainable agriculture to provide healthy food for the children. 
 
@@ -96,7 +92,7 @@ Why would he make this decision? If you were to visit the orphanage, you will un
 
 I think Chris realizes this. To him, a well paying job working in a fancy laboratory or teaching at a prestigious academic institution doesn't hold a candle to when he picks up little Erik and puts him on his shoulders. The bright joy that lights up his face is evidence of this. It's never too late to do what makes you happy. Having Chris's story in my backpack is a great comfort and encouragement as I search for what makes me happy.
 
-### 3. An Italian art curator left everything behind and found love in Fiji
+### An Italian art curator left everything behind and found love in Fiji
 
 When I was in Australia in May, I met two of the most amazing people I've come across in life. Anthony and Marina, our tour guides through the land down under taught me a lot over the span of three weeks. Unlike me, they're not ones to talk about their life or experiences or share wisdom until prodded, but that is exactly what I tried to do.
 
@@ -110,7 +106,7 @@ Marina left Italy and arrived in Fiji at the age of 35. Anthony met her on a bea
 
 Anthony and Marina live for experiences, they don't care much for materialistic possessions, and they're absolutely in love. They're caring, resourceful, friendly, and absolutely the most genuine people I have met. They took us around the continent, cooking for us, helping us discover beautiful places and new activities, and supporting us the whole way. The experience would not have been the same without them, and as a future trip leader at the Outdoor Adventure Center at OSU, I learned a lot from their leading style. But most importantly, I learned that life can take you wonderful places and help you meet wonderful people, no matter which stage you're in. 
 
-### 4. My father's backpack is full
+### My father's backpack is full
 
 The other day I found a thank you letter I had written in eigth grade English class. It was to my father, but I never let him read it. I wrote about everything he had been through in life and thanked him for always being there for me and being an excellent mentor. 
 
