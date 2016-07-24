@@ -70,9 +70,7 @@ layout: blog
             <article class="style{{loopindex}}">
               <span class="image">
                 {% if post.image.feature %}
-                  <div class="feature-image">
-                    <img src="{{site.url}}/images/{{post.image.feature}}" alt="{{post.title}}">
-                  </div>
+                  <img src="{{site.url}}/images/{{post.image.feature}}" alt="{{post.title}}">
                 {% else %}
                   <img src="images/pic02.jpg" alt="" />
                 {% endif %}
