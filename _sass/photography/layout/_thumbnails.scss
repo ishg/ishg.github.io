@@ -11,13 +11,22 @@
 /* Thumbnails */
 
 	#thumbnails {
-		@include vendor('display', 'flex');
-		@include vendor('flex-wrap', 'wrap');
+		//@include vendor('display', 'flex');
+		//@include vendor('flex-wrap', 'wrap');
+
+		line-height: 0;
+	  -webkit-column-count: 2;
+	  -webkit-column-gap:   0.25em;
+	  -moz-column-count:    2;
+	  -moz-column-gap:      0.25em;
+	  column-count:         2;
+	  column-gap:           0.25em;
 		padding: 0 0.75em;
 
 		article {
-			position: relative;
-			width: #{100% / _misc(thumbnails-per-row)};
+			margin: 0.25em 0;
+			width: 100%;
+			height: auto;
 			background: #101010;
 			outline: 0;
 
@@ -31,6 +40,7 @@
 				img {
 					display: block;
 					width: 100%;
+					height:auto;
 				}
 
 				&:before {
