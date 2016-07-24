@@ -32,7 +32,7 @@ layout: blog
 
         <!-- Logo -->
           <a href="index.html" class="logo">
-            <span class="symbol"><img src="images/logo.svg" alt="" /></span><span class="title">Phantom</span>
+            <span class="symbol"><img src="{{site.url}}/images/avatar.jpg" alt="" /></span><span class="title">Ishmeet Grewal</span>
           </a>
 
         <!-- Nav -->
