@@ -61,9 +61,8 @@ layout: blog
     <div id="main">
       <div class="inner">
         <header>
-          <h1>This is Phantom, a free, fully responsive site<br />
-          template designed by <a href="http://html5up.net">HTML5 UP</a>.</h1>
-          <p>Etiam quis viverra lorem, in semper lorem. Sed nisl arcu euismod sit amet nisi euismod sed cursus arcu elementum ipsum arcu vivamus quis venenatis orci lorem ipsum et magna feugiat veroeros aliquam. Lorem ipsum dolor sit amet nullam dolore.</p>
+          <h1>I write profound pieces sometimes.</h1>
+          <p>I love and live to learn. I have written down some of the more interesting things that have happened to me in my life.</p>
         </header>
         <section class="tiles">
           <article class="style1">
