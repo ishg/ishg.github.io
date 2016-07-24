@@ -1,20 +1,16 @@
 ---
 layout: blog
 ---
-<div class="article-wrapper z-depth-1 white">
-  {% if page.image.feature %}
-    <div class="feature-image">
-      <img src="{{site.url}}/images/{{page.image.feature}}" alt="{{page.title}}">
-    </div>
-  {% endif %}
-  <article>
-    <h1><a href="{{ page.url }}">{{ page.title }}</a></h1>
-    <div class="content {{page.layout}}">
-      {{ page.content }}
-    </div>
-    {% include scripts.html %}
-  </article>
-  
 
-
+<div id="main">
+  <div class="inner">
+    <h1>{{page.title}}</h1>
+    {% if page.image.feature %}
+      <span class="image main"><img src="{{site.url}}/images/{{page.image.feature}}" alt="{{page.title}}" /></span>
+    {% endif %}
+    {{ page.content }}
+    {% if page.comments %}
+      {% include disqus_comments.html %}
+    {% endif %}
+  </div>
 </div>
