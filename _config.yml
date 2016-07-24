@@ -2,8 +2,8 @@
 title: Ishmeet Grewal
 description: student. traveler. programmer.
 baseurl: "" # the subpath of your site, e.g. /blog
-#url: "http://www.ishmeetgrewal.com" # the base hostname & protocol for your site
-url: "http://localhost:4000"
+url: "http://www.ishmeetgrewal.com" # the base hostname & protocol for your site
+#url: "http://localhost:4000"
 google_analytics: UA-45766261-2
 
 
