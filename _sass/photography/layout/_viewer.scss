@@ -131,7 +131,7 @@
 				z-index: 1;
 
 				h2, h3, h4, h5, h6 {
-					color: #fff;
+					color: #fffd54;
 				}
 			}
 
@@ -139,11 +139,10 @@
 				@include vendor('transition', 'opacity #{_duration(slide)} ease-in-out');
 				position: absolute;
 				top: 0;
-				left: 0;
 				width: 100%;
 				height: 100%;
 				background-repeat: no-repeat;
-				background-size: cover;
+				background-size: contain;
 				opacity: 0;
 			}
 
