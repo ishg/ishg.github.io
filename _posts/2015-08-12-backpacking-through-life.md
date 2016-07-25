@@ -1,6 +1,6 @@
 ---
 title: Backpacking Through Life
-date: 2015-08-12 00:00:00 -04:00
+date: 2015-08-12 04:00:00 Z
 tags:
 - travel
 - life
