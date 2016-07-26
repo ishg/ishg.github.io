@@ -28,17 +28,17 @@ layout: blog
   <div class="inner">
     <header>
       <h1>I write profound pieces sometimes.</h1>
-      <p>I love and live to learn. I have written down some of the more interesting things that have happened to me in my life.</p>
+      <p>I love and live to learn. Here, I have written down some of the more interesting things that have happened to me in my life.</p>
     </header>
     <section class="tiles">
       {% for post in site.posts %}
-        {% assign loopindex = forloop.index | modulo: 10 %}
+        {% assign loopindex = forloop.index | modulo: 6 %}
         <article class="style{{loopindex}}">
           <span class="image">
             {% if post.image.feature %}
               <img src="{{site.url}}/images/{{post.image.feature}}" alt="{{post.title}}">
             {% else %}
-              <img src="images/pic02.jpg" alt="" />
+              <img src="" alt="" />
             {% endif %}
           </span>
           <a href="{{post.url}}">

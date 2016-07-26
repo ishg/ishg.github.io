@@ -66,7 +66,8 @@ images:
 		<p>As an aspiring photographer, I document my travels and adventures with my Nexus 6P.</p>
 		<ul class="icons">
 			<li><a href="https://www.instagram.com/ishmeetgrewal/" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
-			<li><a href="mailto:ishmeetsinghgrewal@gmail.com" class="icon fa-envelope-o"><span class="label">Email</span></a></li>
+			<li><a href="{{site.url}}" class="icon fa-home"><span class="label">Home</span></a></li>
+      <li><a href="{{site.url}}/blog" class="icon fa-pencil"><span class="label">Blog</span></a></li>
 		</ul>
 	</header>
 	<section id="thumbnails">

@@ -37,11 +37,13 @@
 				position: relative;
 				border: 0;
 				outline: 0;
+				border-radius: 4px;
 
 				img {
 					display: block;
 					width: 100%;
 					height:auto;
+					border-radius: 4px;
 				}
 
 				&:before {
