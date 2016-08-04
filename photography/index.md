@@ -2,6 +2,8 @@
 title: Ishmeet Grewal Photography
 layout: photography
 images:
+- path: "/images/photography/wtc.jpg"
+  title: One World Trade Center, New York
 - path: "/images/photography/vienna.jpg"
   title: Sch&ouml;nbrunn Palace, Vienna, Austria
   caption: My favorite place on Earth.
