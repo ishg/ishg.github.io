@@ -2,11 +2,24 @@
 title: Ishmeet Grewal Photography
 layout: photography
 images:
+- path: "/images/whitney.jpg"
+  title: Mount Whitney, CA
+  caption: Highest point in the continguous United States.
+- path: "/images/lone_pine.jpg"
+  title: Lone Pine Lake, CA
+- path: "/images/havasu_falls.jpg"
+  title: Havasu Falls, Supai, AZ
+- path: "/images/mooney_falls.jpg"
+  title: Mooney Falls, Supai, AZ
+- path: "/images/supai.jpg"
+  title: Supai, AZ
+- path: "/images/kings_canyon.jpg"
+  title: Kings Canyon National Park
 - path: "/images/photography/wtc.jpg"
   title: One World Trade Center, New York
 - path: "/images/photography/vienna.jpg"
   title: Sch&ouml;nbrunn Palace, Vienna, Austria
-  caption: My favorite place on Earth.
+  caption: Possibly my favorite place to nap on Earth.
 - path: "/images/photography/como.jpg"
   title: Lake Como, Italy
   caption: Something I still have to visit.
