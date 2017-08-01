@@ -2,16 +2,16 @@
 title: Ishmeet Grewal Photography
 layout: photography
 images:
-- path: "/images/whitney.jpg"
+- path: "/images/photography/whitney.jpg"
   title: Mount Whitney, CA
   caption: Highest point in the continguous United States.
-- path: "/images/lone_pine.jpg"
+- path: "/images/photography/lone_pine.jpg"
   title: Lone Pine Lake, CA
-- path: "/images/havasu_falls.jpg"
+- path: "/images/photography/havasu_falls.jpg"
   title: Havasu Falls, Supai, AZ
-- path: "/images/mooney_falls.jpg"
+- path: "/images/photography/mooney_falls.jpg"
   title: Mooney Falls, Supai, AZ
-- path: "/images/supai.jpg"
+- path: "/images/photography/supai.jpg"
   title: Supai, AZ
 - path: "/images/kings_canyon.jpg"
   title: Kings Canyon National Park
