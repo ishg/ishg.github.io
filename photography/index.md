@@ -13,7 +13,7 @@ images:
   title: Mooney Falls, Supai, AZ
 - path: "/images/photography/supai.jpg"
   title: Supai, AZ
-- path: "/images/kings_canyon.jpg"
+- path: "/images/photography/kings_canyon.jpg"
   title: Kings Canyon National Park
 - path: "/images/photography/wtc.jpg"
   title: One World Trade Center, New York
