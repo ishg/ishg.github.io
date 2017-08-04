@@ -27,7 +27,7 @@ layout: blog
 <div id="main">
   <div class="inner">
     <header>
-      <h1>I write profound pieces sometimes.</h1>
+      <h1>I pick my brain sometimes.</h1>
       <p>I love and live to learn. Here, I have written down some of the more interesting things that have happened to me in my life.</p>
     </header>
     <section class="tiles">

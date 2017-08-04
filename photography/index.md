@@ -2,104 +2,81 @@
 title: Ishmeet Grewal Photography
 layout: photography
 images:
-- path: "/images/photography/whitney.jpg"
+- path: "whitney.jpg"
   title: Mount Whitney, CA
   caption: Highest point in the continguous United States.
-- path: "/images/photography/lone_pine.jpg"
+- path: "lone_pine.jpg"
   title: Lone Pine Lake, CA
-- path: "/images/photography/havasu_falls.jpg"
+- path: "havasu_falls.jpg"
   title: Havasu Falls, Supai, AZ
-- path: "/images/photography/mooney_falls.jpg"
+- path: "mooney_falls.jpg"
   title: Mooney Falls, Supai, AZ
-- path: "/images/photography/supai.jpg"
+- path: "supai.jpg"
   title: Supai, AZ
-- path: "/images/photography/kings_canyon.jpg"
+- path: "kings_canyon.jpg"
   title: Kings Canyon National Park
-- path: "/images/photography/wtc.jpg"
+- path: "wtc.jpg"
   title: One World Trade Center, New York
-- path: "/images/photography/vienna.jpg"
+- path: "vienna.jpg"
   title: Sch&ouml;nbrunn Palace, Vienna, Austria
   caption: Possibly my favorite place to nap on Earth.
-- path: "/images/photography/como.jpg"
+- path: "como.jpg"
   title: Lake Como, Italy
-  caption: Something I still have to visit.
-- path: "/images/photography/madrid.jpg"
+- path: "madrid.jpg"
   title: Madrid, Spain
-  caption: Something I still have to visit.
-- path: "/images/photography/gendarmenmarkt.jpg"
+- path: "gendarmenmarkt.jpg"
   title: Gendarmenmarkt, Berlin, Germany
-  caption: Something I still have to visit.
-- path: "/images/photography/zwinger.jpg"
+- path: "zwinger.jpg"
   title: Zwinger, Dresden, Germany
-  caption: Something I still have to visit.
-- path: "/images/photography/bratislava.jpg"
+- path: "bratislava.jpg"
   title: Bratislava, Slovakia
-  caption: Something I still have to visit.
-- path: "/images/photography/lapedriza.jpg"
+- path: "lapedriza.jpg"
   title: La Pedriza, Spain
-  caption: Something I still have to visit.
-- path: "/images/photography/porto.jpg"
+- path: "porto.jpg"
   title: Porto, Portugal
-  caption: Something I still have to visit.
-- path: "/images/photography/bruges.jpg"
+- path: "bruges.jpg"
   title: Bruges, Belgium
-  caption: Something I still have to visit.
-- path: "/images/photography/tower_bridge.jpg"
+- path: "tower_bridge.jpg"
   title: Tower Bridge, London
-  caption: Something I still have to visit.
-- path: "/images/photography/prague.jpg"
+- path: "prague.jpg"
   title: Prague, Czech Republic
-  caption: Something I still have to visit.
-- path: "/images/photography/montserrat.jpg"
+- path: "montserrat.jpg"
   title: Montserrat, Spain
-  caption: Something I still have to visit.
-- path: "/images/photography/barcelona.jpg"
+- path: "barcelona.jpg"
   title: Barcelona, Spain
-  caption: Something I still have to visit.
-- path: "/images/photography/bigben.jpg"
+- path: "bigben.jpg"
   title: Big Ben, London
-  caption: Something I still have to visit.
-- path: "/images/photography/lisbon.jpg"
+- path: "lisbon.jpg"
   title: Lisbon, Portugal
-  caption: Something I still have to visit.
-- path: "/images/photography/brandenburg.jpg"
+- path: "brandenburg.jpg"
   title: Brandenburg Gate, Berlin, Germany
-  caption: Something I still have to visit.
-- path: "/images/photography/howth.jpg"
-  title: Howth, Ireland
-  caption: Something I still have to visit.
-- path: "/images/photography/bath.jpg"
+- path: "bath.jpg"
   title: Bath, UK
-  caption: Something I still have to visit.
 ---
 
-<!--remember to tab using spaces in yaml-->
+<div id="wrapper">
 
-<!-- Main -->
-<div id="main">
-	<header id="header">
-		<h1>Ishmeet Grewal Photography</h1>
-		<p>As an aspiring photographer, I document my travels and adventures with my Nexus 6P.</p>
-		<ul class="icons">
-			<li><a href="https://www.instagram.com/ishmeetgrewal/" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
-			<li><a href="{{site.url}}" class="icon fa-home"><span class="label">Home</span></a></li>
-      <li><a href="{{site.url}}/blog" class="icon fa-pencil"><span class="label">Blog</span></a></li>
-		</ul>
-	</header>
-	<section id="thumbnails">
-		{% for image in page.images %}
-			<article>
-				<a class="thumbnail" href="{{ site.baseurl }}{{ image.path }}" data-position="left center"><img src="{{ site.baseurl }}{{ image.path }}" alt="" /></a>
-				<h2>{{image.title}}</h2>
-				<!-- <p>{{image.caption}}</p> -->
-			</article>
-		{% endfor %}
-	</section>
-	<footer id="footer">
-		<ul class="copyright">
-			<li>&copy;2016 Ishmeet Grewal |</li><li>Design: <a href="http://html5up.net">HTML5 UP</a>.</li>
-		</ul>
-	</footer>
-	
+  <!-- Header -->
+    <header id="header">
+      <h1><strong>Photography</strong> by <a href="{{site.url}}">Ishmeet Grewal</a></h1>
+      <nav>
+        <ul class="icons">
+          <li><a href="http://instagram.com/{{ site.owner.instagram }}" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+          <li><a href="{{site.url}}/blog" class="icon fa-pencil"><span class="label">Blog</span></a></li>
+          <li><a href="{{site.url}}" class="icon fa-home"><span class="label">Home</span></a></li>
+        </ul>
+      </nav>
+    </header>
+
+  <!-- Main -->
+    <div id="main">
+      {% for image in page.images %}
+        <article class="thumb">
+          <a href="fulls/{{ image.path }}" class="image"><img src="thumbs/{{ image.path }}" alt="" /></a>
+          <h2>{{ image.title }}</h2>
+          <p>{{ image.caption }}</p>
+        </article>
+      {% endfor %}
+    </div>
 
 </div>
