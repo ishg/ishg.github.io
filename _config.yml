@@ -8,18 +8,17 @@ collections:
   uploads:
     title: Uploads
     output: true
-description: student. traveler. programmer.
+description: programmer. traveler. climber.
 baseurl: ''
 url: http://www.ishmeetgrewal.com
 google_analytics: UA-45766261-2
 owner:
   name: Ishmeet Grewal
   avatar: avatar.jpg
-  bio: I am a computer science student aspiring to be a software engineer. I travel
-    the world and constantly search for opportunities to learn something new.
+  bio: I am a software engineer traveling the world, always looking for opportunities to learn something new.
   email: 
   twitter: 
-  facebook: ishmeet.grewal
+  facebook: 
   github: ishg
   linkedin: ishmeetgrewal
   instagram: ishmeetgrewal
