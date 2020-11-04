@@ -1,0 +1,14 @@
+<section class="widget tagCloud">
+    <div class="widget-header">
+        {{ partial "helper/icon" "book-open" }}
+        <span class="widget-title">{{ T "widgetCategoryCloudTitle" }}</span>
+    </div>
+
+    <div class="tagCloud-tags">
+        {{ range first .Site.Params.widgets.categoryCloud.limit .Site.Taxonomies.categories.ByCount }}
+            <a href="{{ .Page.Permalink }}" class="font_size_{{ .Count }}">
+                {{ .Page.Title }}
+            </a>
+        {{ end }}
+    </div>
+</section>
