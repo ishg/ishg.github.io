@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>python on Ishmeet Grewal</title>
+    <link>http://ishmeetgrewal.com/tags/python/</link>
+    <description>Recent content in python on Ishmeet Grewal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 22 Sep 2014 00:00:00 -0400</lastBuildDate><atom:link href="http://ishmeetgrewal.com/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Raspberry Pi Timelapse</title>
+      <link>http://ishmeetgrewal.com/p/raspberry-pi-timelapse/</link>
+      <pubDate>Mon, 22 Sep 2014 00:00:00 -0400</pubDate>
+      
+      <guid>http://ishmeetgrewal.com/p/raspberry-pi-timelapse/</guid>
+      <description>This weekend, Byers Imports unveiled the new Jaguar F-Type Coupe and invited people to autocross for free. I set up a Raspberry Pi at the start line to record a picture every 10 seconds. It managed to capture every car that autocrossed and a pretty cool view of the moving clouds.
+  Connect the camera The folks over at Raspberry Pi have created a nice tutorial of how to setup the camera and connect it to Pi.</description>
+    </item>
+    
+  </channel>
+</rss>

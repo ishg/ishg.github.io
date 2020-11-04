@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Ishmeet Grewal</title>
+    <link>http://ishmeetgrewal.com/page/</link>
+    <description>Recent content in Pages on Ishmeet Grewal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 04 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://ishmeetgrewal.com/page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>http://ishmeetgrewal.com/about-me/</link>
+      <pubDate>Wed, 04 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://ishmeetgrewal.com/about-me/</guid>
+      <description>I am constantly learning new technologies and applying that learning to building valuable and interesting tools.
+Experience Lightstep 2019 - Present &amp;ndash; Senior Solutions Architect
+I partner with Customers, Sales, and Engineering teams to craft scalable and flexible full context observability solutions that provide complete visibility across microservices, monoliths, and everything in between.
+ Provide technical guidance to existing customers on product deployment and configuration Deliver technical instrumentation and product trainings for Lightstep and OpenTracing Scope, design, and implement custom solutions to integrate Lightstep into customer workflows Design and implement product analytics strategy to enable Customer Success and Sales teams to expand engagement with key strategic customers see less  Accenture Labs 2016 - 2019 &amp;ndash; Associate Principal</description>
+    </item>
+    
+    <item>
+      <title>Archives</title>
+      <link>http://ishmeetgrewal.com/archives/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://ishmeetgrewal.com/archives/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impossible List</title>
+      <link>http://ishmeetgrewal.com/impossible-list/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://ishmeetgrewal.com/impossible-list/</guid>
+      <description>Inspired by Joel Runyon’s quest to do the impossible, I created my own list of things to do before I die.
+These are things that I consider to be challenging, and I will accomplish them as I progress through. This list will change and evolve, and I am open to any new suggestions from others. I love to try new things and venture out of my comfort zone.
+I will keep the list updated as I tackle some of these goals and I hope that I will in turn inspire you to create your own impossible list.</description>
+    </item>
+    
+    <item>
+      <title>Photography</title>
+      <link>http://ishmeetgrewal.com/photography/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://ishmeetgrewal.com/photography/</guid>
+      <description>A few of the photos I&amp;rsquo;ve taken over the years. See on Instagram
+  Mount Whitney, CA    Lone Pine Lake, CA    Havasu Falls, Supai, AZ    Mooney Falls, Supai, AZ 
+  Supai, AZ    Kings Canyon National Park    One World Trade Center, New York    Schönbrunn Palace, Vienna, Austria 
+  Lake Como, Italy    Madrid, Spain    Gendarmenmarkt, Berlin, Germany    Zwinger, Dresden, Germany</description>
+    </item>
+    
+  </channel>
+</rss>

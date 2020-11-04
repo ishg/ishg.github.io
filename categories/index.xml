@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Ishmeet Grewal</title>
+    <link>http://ishmeetgrewal.com/categories/</link>
+    <description>Recent content in Categories on Ishmeet Grewal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 30 Aug 2015 00:00:00 -0500</lastBuildDate><atom:link href="http://ishmeetgrewal.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lifestyle</title>
+      <link>http://ishmeetgrewal.com/categories/lifestyle/</link>
+      <pubDate>Sun, 30 Aug 2015 00:00:00 -0500</pubDate>
+      
+      <guid>http://ishmeetgrewal.com/categories/lifestyle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Travel</title>
+      <link>http://ishmeetgrewal.com/categories/travel/</link>
+      <pubDate>Wed, 12 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://ishmeetgrewal.com/categories/travel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Technology</title>
+      <link>http://ishmeetgrewal.com/categories/technology/</link>
+      <pubDate>Mon, 22 Sep 2014 00:00:00 -0400</pubDate>
+      
+      <guid>http://ishmeetgrewal.com/categories/technology/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
