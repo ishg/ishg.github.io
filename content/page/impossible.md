@@ -13,122 +13,122 @@ I will keep the list updated as I tackle some of these goals and I hope that I w
 
 ### Life
 
-- Build A School
-- Change One Person’s Life For The Better
-- Save Someone’s Life
+- [ ] Build A School
+- [ ] Change One Person’s Life For The Better
+- [ ] Save Someone’s Life
 
 ### Fitness
 
-- Do The Air Force PT Test
-- <del>Run A 5K</del><span class="done"> [June 2014 in 24:58]
-- <del>Run A 10K</del><span class="done"> [<a href="/posts/my-first-10k/">August 2015 in 54:16</a>]
-- Run A Half Marathon
-- Run A Marathon
-- Comrades Marathon (56 miles!)
-- Complete A Triathlon
-- 100 Consecutive Push-ups
-- 200 Consecutive Squats
-- 50 Consecutive Pull-ups
-- Complete Tough Mudder
-- Learn How To Swim Properly
-- Swim Continuously 1km
-- Serve A Tennis Ball At 100+ mph
+- [ ] Do The Air Force PT Test
+- [x] Run A 5K [June 2014 in 24:58]
+- [x] Run A 10K [[August 2015 in 54:16](/p/my-first-10k/)]
+- [ ] Run A Half Marathon
+- [ ] Run A Marathon
+- [ ] Comrades Marathon (56 miles!)
+- [ ] Complete A Triathlon
+- [ ] 100 Consecutive Push-ups
+- [ ] 200 Consecutive Squats
+- [ ] 50 Consecutive Pull-ups
+- [ ] Complete Tough Mudder
+- [ ] Learn How To Swim Properly
+- [ ] Swim Continuously 1km
+- [ ] Serve A Tennis Ball At 100+ mph
 
 ### Travel
 
-- Visit Every Continent
-  - <del>North America</del><span class="done"> [August 2007] </span>
-  - <del>South America</del><span class="done"> [December 2018] </span>
-  - <del>Asia</del><span class="done"> [Born Here]</span>
-  - Africa
-  - <del>Australia</del><span class="done"> [May 2015]</span>
-  - <del>Europe</del><span class="done"> [June 2013]</span>
-  - Antarctica
-- Swim In Every Ocean
-  - <del>Pacific</del><span class="done"> [January 2015]</span>
-  - <del>Atlantic</del><span class="done"> [July 2012]</span>
-  - <del>Indian</del><span class="done"> [Summer 2006]</span>
-  - Arctic
-- Swim In All Major Seas
-  - <del>Mediterranean Sea</del><span class="done"> [Cinque Terre, June 2013]</span>
-  - Caribbean Sea
-  - Caspian Sea
-  - Gulf Of Mexico
-  - Persian Gulf
-  - Red Sea
-  - Dead Sea
-  - Black Sea
-  - Baltic Sea
-- Get Dual Citizenship
-- Own Property In Three Different Countries
-- Cross Country Road Trip With Rigorous Documentation
-- Around The World Trip With Rigorous Documentation
-- Visit All The Countries
-  - <del>5 Countries</del><span class="done"> [June 2013]</span>
-  - <del>10 Countries<span class="done"> [June 2016]</span></del>
-  - <del>20 Countries<span class="done"> [Dec 2016]</span></del>
-  - 50 Countries
-  - 100 Countries
-  - All The Countries
-- Hike The Entire Appalachian Trail
-- Climb A Hawaiian Volcano
-- Travel Through The Middle East. Don’t Die.
-- Travel To All 50 US States And Make A Friend
-- Go Camping For 30 Days And Live Off The Land
+- [ ] Visit Every Continent
+  - [x] North America [August 2007] 
+  - [x] South America [December 2018] 
+  - [x] Asia[Born Here]
+  - [ ] Africa
+  - [x] Australia [May 2015]
+  - [x] Europe [June 2013]
+  - [ ] Antarctica
+- [ ] Swim In Every Ocean
+  - [x] Pacific [January 2015]
+  - [x] Atlantic [July 2012]
+  - [x] Indian [Summer 2006]
+  - [ ] Arctic
+- [ ] Swim In All Major Seas
+  - [x] Mediterranean Sea [Cinque Terre, June 2013]
+  - [ ] Caribbean Sea
+  - [ ] Caspian Sea
+  - [ ] Gulf Of Mexico
+  - [ ] Persian Gulf
+  - [ ] Red Sea
+  - [ ] Dead Sea
+  - [ ] Black Sea
+  - [ ] Baltic Sea
+- [ ] Get Dual Citizenship
+- [ ] Own Property In Three Different Countries
+- [ ] Cross Country Road Trip With Rigorous Documentation
+- [ ] Around The World Trip With Rigorous Documentation
+- [ ] Visit All The Countries
+  - [x] 5 Countries [June 2013]
+  - [x] 10 Countries [June 2016]
+  - [x] 20 Countries [Dec 2016]
+  - [ ] 50 Countries
+  - [ ] 100 Countries
+  - [ ] All The Countries
+- [ ] Hike The Entire Appalachian Trail
+- [ ] Climb A Hawaiian Volcano
+- [ ] Travel Through The Middle East. Don’t Die.
+- [ ] Travel To All 50 US States And Make A Friend
+- [ ] Go Camping For 30 Days And Live Off The Land
 
 ### Adrenaline Rush
 
-- <del>Go Skydiving</del><span class="done"> [April 2014 @ StartSkydiving]</span>
-- Go Flyboarding
-- Get a Wingsuit License
-- <del>Go Snorkeling</del><span class="done"> [June 2015 @ Great Barrier Reef]</span>
-- <del>Go Scuba diving</del><span class="done"> [June 2015 @ Great Barrier Reef]</span>
-- <del>Go Surfing</del><span class="done"> [<a href="https://instagram.com/p/zS-kKymSEK/?modal=true">January 2015 in Costa Rica</a>]
-- <del>Go Bungee Jumping</del><span class="done"> [June 2015 @ AJ Hackett Bungy Cairns]</span>
-- Go Paragliding
-- Go Parasailing
-- <del>Go White Water Rafting</del><span class="done"> [January 2015 @ Costa Rica]</span>
-- <del>Go Kayaking</del><span class="done"> [April 2014 @ Red River, KY]</span>
-- Go Rock Climbing In An Awesome Place
+- [x] Go Skydiving [[April 2014 @ StartSkydiving](/p/skydiving)]
+- [ ] Go Flyboarding
+- [ ] Get a Wingsuit License
+- [x] Go Snorkeling [June 2015 @ Great Barrier Reef]
+- [x] Go Scuba diving [June 2015 @ Great Barrier Reef]
+- [x] Go Surfing [[January 2015 in Costa Rica](https://instagram.com/p/zS-kKymSEK/?modal=true)]
+- [x] Go Bungee Jumping[June 2015 @ AJ Hackett Bungy Cairns]
+- [ ] Go Paragliding
+- [ ] Go Parasailing
+- [x] Go White Water Rafting[January 2015 @ Costa Rica]
+- [x] Go Kayaking[April 2014 @ Red River, KY]
+- [ ] Go Rock Climbing In An Awesome Place
 
 ### Events To Attend
 
-- Google I/O
-- Carnival (Brazil)
-- FIFA World Cup Game
-- Super Bowl
-- TED Event
-- Comic-Con
-- Mardi Gras
+- [ ] Google I/O
+- [ ] Carnival (Brazil)
+- [ ] FIFA World Cup Game
+- [ ] Super Bowl
+- [ ] TED Event
+- [ ] Comic-Con
+- [ ] Mardi Gras
 
 ### Renaissance Man
 
-- Learn To Fly
-- Learn To Dance
-- Get To Space
-- Learn A Musical Instrument (Guitar)
-- Make A Famous Movie/Video
-- Create An Art Masterpiece
-- Write A Book
-- Learn A New Skill From A Book
-- Design And Build My Own House
-- Forge A Sword
+- [ ] Learn To Fly
+- [ ] Learn To Dance
+- [ ] Get To Space
+- [ ] Learn A Musical Instrument (Guitar)
+- [ ] Make A Famous Movie/Video
+- [ ] Create An Art Masterpiece
+- [ ] Write A Book
+- [ ] Learn A New Skill From A Book
+- [ ] Design And Build My Own House
+- [ ] Forge A Sword
 
 ### Become Pentalingual
 
-- <del>English</del>
-- <del>Hindi</del>
-- <del>Punjabi</del>
-- Spanish
-- German
-- Mandarin
+- [x] English
+- [x] Hindi
+- [x] Punjabi
+- [ ] Spanish
+- [ ] German
+- [ ] Mandarin
 
 ### Computer Skills
 
-- Make An Android App
-- Make An iOS App
-- <del>Make A Website</del><span class="done"> [Went Online in 2013]
-- <del>Learn SQL</del><span class="done"> [Autumn 2015]</span>
-- Learn C#
-- Learn Python
-- <del>Learn How To Create GUIs</del><span class="done"> [January 2015]</span>
+- [ ] Make An Android App
+- [ ] Make An iOS App
+- [x] Make A Website [This site published in 2013]
+- [x] Learn SQL [Autumn 2015, School]
+- [ ] Learn C#
+- [ ] Learn Python
+- [x] Learn How To Create GUIs [January 2015, Hackathon]
