@@ -1,0 +1,43 @@
+{{ define "main" }}
+{{ $pages := where .Site.RegularPages "Type" "in" .Site.Params.mainSections }}
+{{ $notHidden := where .Site.RegularPages "Params.hidden" "!=" true }}
+{{ $filtered := ($pages | intersect $notHidden) }}
+{{ $pag := .Paginate ($filtered) }}
+{{- partial "hero.html" . -}}
+
+<div class="grow">
+    <section>
+        <h2 class="font-aspekta text-xl font-[650] pb-2 border-b border-slate-100 dark:border-slate-800">Latest Articles
+        </h2>
+        <!-- <ul class="flex flex-wrap text-sm border-b border-slate-100 dark:border-slate-800">
+            <li class="px-3 -mb-px">
+                <a class="block py-3 font-medium text-slate-800 dark:text-slate-100 border-b-2 border-sky-500"
+                    href="#0">Coding</a>
+            </li>
+            <li class="px-3 -mb-px">
+                <a class="block py-3 text-slate-500 hover:text-slate-600 dark:text-slate-400 dark:hover:text-slate-300"
+                    href="#0">Startups</a>
+            </li>
+            <li class="px-3 -mb-px">
+                <a class="block py-3 text-slate-500 hover:text-slate-600 dark:text-slate-400 dark:hover:text-slate-300"
+                    href="#0">Tutorials</a>
+            </li>
+            <li class="px-3 -mb-px">
+                <a class="block py-3 text-slate-500 hover:text-slate-600 dark:text-slate-400 dark:hover:text-slate-300"
+                    href="#0">Indie Hacking</a>
+            </li>
+        </ul> -->
+        <div>
+            {{ range $index, $element := $pag.Pages }}
+            {{ partial "article-list/default" . }}
+            {{ end }}
+        </div>
+
+    </section>
+</div>
+
+
+
+
+{{- partial "pagination.html" . -}}
+{{ end }}

@@ -1,7 +1,6 @@
 ---
 title: "Impossible List"
 aliases: [impossible]
-template: "page"
 socialImage: ""
 ---
 

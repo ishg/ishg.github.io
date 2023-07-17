@@ -2,8 +2,8 @@ baseURL = "http://ishmeetgrewal.com/"
 languageCode = "en-us"
 title = "Ishmeet Grewal"
 
-theme = "hugo-theme-stack"
-paginate = 5
+theme = "dev"
+paginate = 8
 
 disqusShortname = "ishmeetgrewal"            # Change it to your Disqus shortname before using
 DefaultContentLanguage = "en"                   # Theme i18n support
@@ -111,11 +111,6 @@ DefaultContentLanguage = "en"                   # Theme i18n support
         url = "https://instagram.com/ishmeetgrewal"
         weight = -50
         pre = "instagram"
-    [[menu.social]]
-        identifier = "twitter"
-        url = "https://twitter.com/ishmeetgrewal"
-        weight = -50
-        pre = "twitter"
 
 [related]
     includeNewer = true

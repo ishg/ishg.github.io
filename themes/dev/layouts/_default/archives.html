@@ -1,0 +1,32 @@
+{{ define "body-class" }}template-archives{{ end }}
+{{ define "main" }}
+{{ $categories := ($.Site.GetPage "taxonomyTerm" "categories").Pages }}
+{{ if $categories }}
+<div class="widget border-b border-slate-200 dark:border-slate-800 pb-4">
+  <h1 class="h2 font-aspekta my-5">Categories</h1>
+  <div class="category-list">
+    <div class="flex space-x-2">
+      {{ range $categories }}
+      {{ partial "article-list/tile" (dict "context" . "size" "250x150" "Type" "taxonomy") }}
+      {{ end }}
+    </div>
+  </div>
+</div>
+{{ end }}
+
+{{ $pages := where .Site.RegularPages "Type" "in" .Site.Params.mainSections }}
+{{ $notHidden := where .Site.RegularPages "Params.hidden" "!=" true }}
+{{ $filtered := ($pages | intersect $notHidden) }}
+
+{{ range $filtered.GroupByDate "2006" }}
+{{ $id := lower (replace .Key " " "-") }}
+<div class="archives-group" id="{{ $id }}">
+  <h1 class="h2 font-aspekta my-5"><a href="{{ $.Permalink }}#{{ $id }}">{{ .Key }}</a></h1>
+  <div class="article-list--compact">
+    {{ range .Pages }}
+    {{ partial "article-list/default" . }}
+    {{ end }}
+  </div>
+</div>
+{{ end }}
+{{ end }}

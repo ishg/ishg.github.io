@@ -1,12 +1,12 @@
 +++
-title = "About Me"
+title = "Hi. I'm Ishmeet"
 description = ""
+slug="about"
 date = "2020-11-04"
 aliases = ["about", "about-me", "contact"]
 comments = false
 +++
 
-I am constantly learning new technologies and applying that learning to building valuable and interesting tools. 
 
 ## Experience
 
