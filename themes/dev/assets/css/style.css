@@ -11,6 +11,9 @@
 
 @import 'tailwindcss/utilities';
 
+@import 'highlight/light.css';
+@import 'highlight/dark.css';
+
 /* Additional Tailwind directives: https://tailwindcss.com/docs/functions-and-directives/#responsive */
 @layer utilities {
     .rtl {

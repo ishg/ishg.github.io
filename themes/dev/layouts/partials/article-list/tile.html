@@ -1,8 +1,8 @@
 {{ $image := partialCached "helper/image" (dict "Context" .context "Type" .Type) .context.RelPermalink .Type }}
-<article class="hover:-translate-y-2 transition">
+<div class="hover:-translate-y-2 transition" style="width: 10rem; height: 8rem;">
   <a href="{{ .context.Permalink }}">
     {{ if $image.exists }}
-    <div class="article-image opacity-25">
+    <div class="article-image opacity-40 dark:opacity-50">
       {{ if $image.resource }}
       {{- $imageRaw := $image.resource | resources.Fingerprint "md5" -}}
       {{- $thumbnail := $imageRaw.Fill .size -}}
@@ -18,9 +18,9 @@
     {{ end }}
 
     <div class="relative bottom-12 ml-4">
-      <h2 class="h3 font-aspekta article-title">
+      <h2 class="h3 font-aspekta article-title text-slate-700 dark:text-slate-200">
         {{- .context.Title -}}
       </h2>
     </div>
   </a>
-</article>
+</div>
