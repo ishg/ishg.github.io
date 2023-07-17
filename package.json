@@ -7,7 +7,7 @@
   "scripts": {
     "dev": "npx tinacms dev -c \"hugo serve\"",
     "watch": "npx tailwindcss -i ./themes/dev/assets/css/style.css -o ./static/css/style.css --watch",
-    "build": "npx tailwindcss -i ./themes/dev/assets/css/style.css -o ./static/css/style.css && tinacms build && hugo"
+    "build": "npx tailwindcss -i ./themes/dev/assets/css/style.css -o ./static/css/style.css && tinacms build"
   },
   "devDependencies": {
     "@tailwindcss/forms": "^0.4.0",
