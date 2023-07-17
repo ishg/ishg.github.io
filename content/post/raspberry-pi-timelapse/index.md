@@ -4,7 +4,7 @@ date: 2014-09-22 00:00:00 -04:00
 template: post
 draft: false
 slug: "raspberry-pi-timelapse"
-categories: [ Technology ]
+categories: [ technology ]
 description: "I set up a Raspberry Pi to take a picture every 10 seconds at an autocross
   event. The result was a timelapse video showcasing all the cars that autocrossed."
 tags: [python, raspberry-pi, iot]
